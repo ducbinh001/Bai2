@@ -1,0 +1,1120 @@
+<head>
+ <meta http-equiv="Content-Type" content="text/html;charset=utf-8"> 
+ <title>Dân trí</title> 
+ <meta name="robots" content="index,follow"> 
+ <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"> 
+ <meta name="MobileOptimized" content="100"> 
+ <meta name="apple-mobile-web-app-capable" content="yes"> 
+ <meta name="format-detection" content="telephone=no"> 
+ <meta name="format-detection" content="date=no"> 
+ <meta name="format-detection" content="address=no"> 
+ <meta name="google-site-verification" content="WG87jlqyVlbofWb4B42Hsr8jnl7UIBrqJnsH9K0DkWI"> 
+ <meta property="fb:app_id" content="164035690775918"> 
+ <meta property="fb:pages" content="345033318906366"> 
+ <link href="https://static.dantricdn.com/storage/images/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+ <link rel="apple-touch-icon" href="http://dantricdn.com/mob_images/dantri152.png"> 
+ <link rel="apple-touch-icon-precomposed" href="http://dantricdn.com/mob_images/dantri152.png"> 
+ <meta name="keywords" content="Dân trí, dantri, Vi?t Nam, Vietnam, net, báo, ?i?n t?, vn, express, news, online, báo m?ng, tr?c tuy?n, tin t?c, s? ki?n, m?i, nóng, nhanh, hot, video, clip, th?i s?, xã h?i, ??i s?ng, qu?c t?, th? gi?i, blog, pháp lu?t, v? án, lao ??ng, vi?c làm, kinh t?, kinh doanh, th? thao, bóng ?á, tennis, v?n hóa, gi?i trí, showbiz, sao Vi?t, tình yêu, gi?i tính, gia ?ình, chuy?n l?, xe, teen, t? v?n, giao l?u, công ngh?, di ??ng, du h?c, tuy?n sinh, du l?ch, nhân ái, t? thi?n, iphone, youtube, Trung Qu?c, M?, bi?n ?ông"> 
+ <meta name="news_keywords" content="Dân trí, dantri, Vi?t Nam, Vietnam, net, báo, ?i?n t?, vn, express, news, online, báo m?ng, tr?c tuy?n, tin t?c, s? ki?n, m?i, nóng, nhanh, hot, video, clip, th?i s?, xã h?i, ??i s?ng, qu?c t?, th? gi?i, blog, pháp lu?t, v? án, lao ??ng, vi?c làm, kinh t?, kinh doanh, th? thao, bóng ?á, tennis, v?n hóa, gi?i trí, showbiz, sao Vi?t, tình yêu, gi?i tính, gia ?ình, chuy?n l?, xe, teen, t? v?n, giao l?u, công ngh?, di ??ng, du h?c, tuy?n sinh, du l?ch, nhân ái, t? thi?n, iphone, youtube, Trung Qu?c, M?, bi?n ?ông"> 
+ <meta name="description" content="Tin t?c, s? ki?n Vi?t Nam và qu?c t? nhanh, chính xác và c?p nh?t m?i online 24h /7: Xã h?i, Pháp lu?t, Kinh doanh, Gi?i trí, Th? thao, ??i s?ng, S?c kh?e, Giáo d?c, Công ngh?, V?n hóa, Ôtô, Xe máy, Tình yêu, Gi?i tính, Nh?p s?ng tr?, Chuy?n l?, Blog, Nhân ái, B?n ??c, Vi?c làm…"> 
+ <link rel="canonical" href="http://dantri.com.vn/"> 
+ <link href="http://dantricdn.com/mob_css/dantri-home.05.02.2018.css" rel="stylesheet"> 
+ <script type="text/javascript" src="http://dantricdn.com/mob_js/dantri-home.03.04.2017.js" async></script> 
+ <script type="text/javascript">
+var _ADM_Channel = '%2fhome%2f';
+</script> 
+ <script async src="http://media1.admicro.vn/core/mbtk.js"></script> 
+ <script>
+    (function () {
+        var img = new Image();
+        img.src = 'https://lg1.logging.admicro.vn/ftest?url=' + encodeURIComponent(document.URL);
+    })();
+</script> 
+ <!-- Google Tag Manager --> 
+ <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NQQ7DVS');</script> 
+ <!-- End Google Tag Manager --> 
+ <!-- Begin comScore Tag --> 
+ <script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "17793284" });
+    (function () {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script> 
+ <noscript> &lt;img src="http://b.scorecardresearch.com/p?c1=2&amp;amp;c2=17793284&amp;amp;cv=2.0&amp;amp;cj=1"&gt; 
+ </noscript> 
+ <!-- End comScore Tag --> 
+ <script type="text/javascript">
+        var admicroMAD = admicroMAD || {}; admicroMAD.unit = admicroMAD.unit || []; var JavaScript = { load: function (c, d) { var a = document.createElement("script"), b; a.setAttribute("src", c); a.async = !0; d && (a.onreadystatechange = a.onload = function () { b || d(); b = !0 }); document.getElementsByTagName("head")[0].appendChild(a) } }; JavaScript.load(("https:" == document.location.protocol ? "https:" : "http:") + "//media1.admicro.vn/core/mb_core.js", function () { admicroMAD.show = function (a) { var b = a.replace("adm-slot-", ""); admicroMAD.loaded = admicroMAD.loaded || []; ADM_CHECKER.in_array(b, admicroMAD.loaded) || (admicroMAD.loaded.push(b), a = document.createElement("script"), a.async = !0, a.type = "text/javascript", a.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//media1.admicro.vn/ads_codes/mb_code_" + b + ".ads", b = document.getElementsByTagName("script")[0], b.parentNode.insertBefore(a, b)) }; if (1 <= admicroMAD.unit.length) for (var c = 0, d = admicroMAD.unit.length; c < d; c++) admicroMAD.unit[c]() });
+    </script> 
+</head><body> 
+ <div id="admwrapper"> 
+  <div class="ovh" style="height: 56px; margin-bottom: -1px"> 
+   <div id="header_menu" class="cf header_w"> 
+    <div class="cf header"> 
+     <h1><a title="Tin t?c, s? ki?n Vi?t Nam và qu?c t?" class="fl logo" href="/">&nbsp;</a></h1> 
+     <a class="fr expand" href="javascript:void(0)">&nbsp;</a> 
+     <a class="fr search" href="/tim-kiem.htm">&nbsp;</a> 
+     <a id="btnMostView" class="fr hoting" href="/doc-nhieu.htm"></a> 
+     <a class="fr video" href="/video-page.htm">&nbsp;</a> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="ovh"> 
+   <div id="wrapper_mn" style="display: none"> 
+    <ul class="ovh menu_cat_main"> 
+     <li> <a href="/su-kien.htm"> <span><i class="sukien_ico">&nbsp;</i></span> <span class="txt">S? KI?N</span> </a> </li> 
+     <li> <a href="/xa-hoi.htm"> <span><i class="xahoi_ico">&nbsp;</i></span> <span class="txt">XÃ H?I</span> </a> </li> 
+     <li> <a href="/phap-luat.htm"> <span><i class="phapluat_ico">&nbsp;</i></span> <span class="txt">PHÁP LU?T</span> </a> </li> 
+     <li> <a href="/the-gioi.htm"> <span><i class="thegioi_ico">&nbsp;</i></span> <span class="txt">TH? GI?I</span> </a> </li> 
+     <li> <a href="/the-thao.htm"> <span><i class="thethao_ico">&nbsp;</i></span> <span class="txt">TH? THAO</span> </a> </li> 
+     <li> <a href="/giai-tri.htm"> <span><i class="giaitri_ico">&nbsp;</i></span> <span class="txt">GI?I TRÍ</span> </a> </li> 
+     <li> <a href="/kinh-doanh.htm"> <span><i class="kinhdoanh_ico">&nbsp;</i></span> <span class="txt">KINH DOANH</span> </a> </li> 
+     <li> <a href="/suc-manh-so.htm"> <span><i class="computer_ico">&nbsp;</i></span> <span class="txt">S?c m?nh s?</span> </a> </li> 
+     <li> <a href="/chuyen-la.htm"> <span><i class="book_ico">&nbsp;</i></span> <span class="txt">Chuy?n l?</span> </a> </li> 
+     <li> <a href="/blog.htm"> <span><i class="blog_ico">&nbsp;</i></span> <span class="txt">BLOG</span> </a> </li> 
+     <li> <a href="/video-page.htm"> <span><i class="giaitri_ico">&nbsp;</i></span> <span class="txt">Video</span> </a> </li> 
+     <li> <a href="/o-to-xe-may.htm"> <span><i class="xe_ico">&nbsp;</i></span> <span class="txt">Xe++</span> </a> </li> 
+    </ul> 
+    <div class="ovh menu_cat_sub"> 
+     <h4>Các Chuyên M?c Khác</h4> 
+     <ul> 
+      <li> <a href="/giao-duc-khuyen-hoc.htm">GIÁO D?C</a> </li> 
+      <li> <a href="/khoa-hoc-cong-nghe.htm">KH - CN</a> </li> 
+      <li> <a href="/van-hoa.htm">V?N HÓA</a> </li> 
+      <li> <a href="/tam-long-nhan-ai.htm">NHÂN ÁI</a> </li> 
+      <li> <a href="/nhip-song-tre.htm">NH?P S?NG TR?</a> </li> 
+      <li> <a href="/du-lich.htm">DU L?CH</a> </li> 
+      <li> <a href="/tinh-yeu-gioi-tinh.htm">TÌNH YÊU</a> </li> 
+      <li> <a href="/tuyen-sinh.htm">TUY?N SINH</a> </li> 
+      <li> <a href="/doi-song.htm">??i s?ng</a> </li> 
+      <li> <a href="/suc-khoe.htm">S?C KH?E</a> </li> 
+      <li> <a href="/du-hoc.htm">DU H?C</a> </li> 
+      <li> <a href="/ban-doc.htm">B?N ??C</a> </li> 
+      <li> <a href="/viec-lam.htm">VI?C LÀM</a> </li> 
+      <li> <a href="/dien-dan.htm">DI?N ?ÀN</a> </li> 
+     </ul> 
+    </div> 
+    <div class="cf allmost"> 
+     <a href="/doc-nhieu.htm">Xem Nhi?u</a>&nbsp;&nbsp;
+     <a href="/binh-luan-nhieu.htm">Bình lu?n Nhi?u</a> 
+    </div> 
+   </div> 
+   <div id="wrapper"> 
+    <div class="clearfix adv-box adv-top" id="adm-slot-7254"></div> 
+    <script type="text/javascript">'undefined' == typeof admicroMAD.show ? admicroMAD.unit.push(function () { admicroMAD.show('adm-slot-7254') }) : admicroMAD.show('adm-slot-7254');</script> 
+    <div class="scroll"> 
+     <div class="ovh nbh_w"> 
+      <div class="ovh top"> 
+       <a class="mrk-click" href="/xa-hoi/lap-phuong-an-thao-do-cong-trinh-khung-xam-hai-di-san-the-gioi-trang-an-20180326123107986.htm" title="L?p ph??ng án tháo d? công trình “kh?ng” xâm h?i di s?n th? gi?i Tràng An" data-id="20180326123107986"> <img alt="L?p ph??ng án tháo d? công trình “kh?ng” xâm h?i di s?n th? gi?i Tràng An" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/2/trang-an-co-4-15199594770371160092490.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/2/trang-an-co-4-15199594770371160092490.jpg"> <h2>L?p ph??ng án tháo d? công trình “kh?ng” xâm h?i di s?n th? gi?i Tràng An</h2> </a> 
+       <p>(Dân trí) - H?n 500m t?ng chi?u dài ???ng lên xu?ng núi Cái H? v?i trên 900 b?c thang xây d?ng trái phép, xâm h?i di s?n th? gi?i Tràng An s? b? tháo d?. Vi?c h?y b? công trình “kh?ng” ???c tính k? l??ng ?? ??m b?o an toàn, gi? c?nh quan cho vùng lõi di s?n.</p> 
+      </div> 
+      <ul class="ovh top_3"> 
+       <li> <h3><a class="mrk-click" data-id="20180326140354171" href="/xa-hoi/nhung-chiec-o-to-tan-chay-trong-tang-ham-chung-cu-carina-plaza-20180326140354171.htm" title="Nh?ng chi?c ô tô tan ch?y trong t?ng h?m chung c? Carina Plaza">Nh?ng chi?c ô tô tan ch?y trong t?ng h?m chung c? Carina Plaza</a></h3> <a data-id="20180326140354171" href="/xa-hoi/nhung-chiec-o-to-tan-chay-trong-tang-ham-chung-cu-carina-plaza-20180326140354171.htm" title="Nh?ng chi?c ô tô tan ch?y trong t?ng h?m chung c? Carina Plaza"><img alt="Nh?ng chi?c ô tô tan ch?y trong t?ng h?m chung c? Carina Plaza" class="lazy" src="http://dantricdn.com/zoom/32_20/2018/3/26/cu-dan-lay-xe-sau-vu-chay-13-nguoi-chet-8-15220429295921269749447.jpg" data-src="http://dantricdn.com/zoom/320_200/2018/3/26/cu-dan-lay-xe-sau-vu-chay-13-nguoi-chet-8-15220429295921269749447.jpg"></a> <p class="collapse_txt">(Dân trí) - Sáng 26/3, sau khi c? quan công an hoàn t?t vi?c khám nghi?m hi?n tr??ng v? cháy <a href="javascript:void(0)" class="toggle_txt_func" onclick="expand_txt(this)">+</a></p> <p class="expand_txt">(Dân trí) - Sáng 26/3, sau khi c? quan công an hoàn t?t vi?c khám nghi?m hi?n tr??ng v? cháy chung c? Carina Plaza (ph??ng 16, qu?n 8, TPHCM) khi?n 13 ng??i ch?t, nh?ng c? dân ?ã ???c ban qu?n lý cho vào t?ng h?m l?y xe ra ngoài s?a ch?a ?? có ph??ng ti?n ?i l?i. <a href="javascript:void(0)" class="toggle_txt_func" onclick="collapse_txt(this)">-</a></p> </li> 
+       <li> <h3><a class="mrk-click" data-id="20180326170128332" href="/the-thao/dinh-don-cua-messi-thai-lan-cuu-ngoi-sao-liverpool-bat-tinh-20180326170128332.htm" title="“Dính ?òn” c?a “Messi Thái Lan”, c?u ngôi sao Liverpool b?t t?nh">“Dính ?òn” c?a “Messi Thái Lan”, c?u ngôi sao Liverpool b?t t?nh&nbsp;<i class="icon_autovideo"></i></a></h3> <a data-id="20180326170128332" href="/the-thao/dinh-don-cua-messi-thai-lan-cuu-ngoi-sao-liverpool-bat-tinh-20180326170128332.htm" title="“Dính ?òn” c?a “Messi Thái Lan”, c?u ngôi sao Liverpool b?t t?nh"><img alt="“Dính ?òn” c?a “Messi Thái Lan”, c?u ngôi sao Liverpool b?t t?nh" class="lazy" src="http://dantricdn.com/zoom/32_20/2018/3/26/martin-skrtel-1522039845450117954565.png" data-src="http://dantricdn.com/zoom/320_200/2018/3/26/martin-skrtel-1522039845450117954565.png"></a> <p class="collapse_txt">(Dân trí) - Trung v? Martin Skrtel ?ã b?t t?nh trên sân và nu?t l??i sau khi l?nh tr?n cú <a href="javascript:void(0)" class="toggle_txt_func" onclick="expand_txt(this)">+</a></p> <p class="expand_txt">(Dân trí) - Trung v? Martin Skrtel ?ã b?t t?nh trên sân và nu?t l??i sau khi l?nh tr?n cú t?t bóng c?a Chanathip Songkrasin trong tr?n ??u gi?a Slovakia và Thái Lan t?i King’s Cup hôm qua. <a href="javascript:void(0)" class="toggle_txt_func" onclick="collapse_txt(this)">-</a></p> </li> 
+       <li> <h3><a class="mrk-click" data-id="20180326122047729" href="/kinh-doanh/kham-xet-chi-nhanh-eximbank-tai-tphcm-20180326122047729.htm" title="Chi nhánh Eximbank t?i TPHCM b?t ng? b? khám xét, 2 nhân viên b? b?t t?i ch?">Chi nhánh Eximbank t?i TPHCM b?t ng? b? khám xét, 2 nhân viên b? b?t t?i ch?</a></h3> <a data-id="20180326122047729" href="/kinh-doanh/kham-xet-chi-nhanh-eximbank-tai-tphcm-20180326122047729.htm" title="Chi nhánh Eximbank t?i TPHCM b?t ng? b? khám xét, 2 nhân viên b? b?t t?i ch?"><img alt="Chi nhánh Eximbank t?i TPHCM b?t ng? b? khám xét, 2 nhân viên b? b?t t?i ch?" class="lazy" src="http://dantricdn.com/zoom/32_20/2018/3/26/anh-15220433100752038971462.jpg" data-src="http://dantricdn.com/zoom/320_200/2018/3/26/anh-15220433100752038971462.jpg"></a> <p class="collapse_txt">(Dân trí) - C? quan công an ?ã ??n Ngân hàng Eximbank chi nhánh TPHCM (???ng ??ng Kh?i, Qu?n 1) <a href="javascript:void(0)" class="toggle_txt_func" onclick="expand_txt(this)">+</a></p> <p class="expand_txt">(Dân trí) - C? quan công an ?ã ??n Ngân hàng Eximbank chi nhánh TPHCM (???ng ??ng Kh?i, Qu?n 1) ??c l?nh khám xét, yêu c?u t?t c? nh?ng ng??i có m?t trong phòng không ra ngoài. 2 ng??i b? b?t sau cu?c khám xét này. <a href="javascript:void(0)" class="toggle_txt_func" onclick="collapse_txt(this)">-</a></p> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh ttsk_w"> 
+      <div class="ovh ttsk-head">
+       TIN T?C - S? KI?N
+      </div> 
+      <ul> 
+       <li> <a href="/su-kien/doi-hinh-nao-cho-doi-tuyen-viet-nam-truoc-jordan-20180326100451167.htm" title="??i hình nào cho ??i tuy?n Vi?t Nam tr??c Jordan?"> <span>1</span> <h3>??i hình nào cho ??i tuy?n Vi?t Nam tr??c Jordan?</h3> </a> </li> 
+       <li> <a href="/su-kien/sau-tham-hoa-chu-dau-tu-carina-plaza-mat-hang-tram-ty-dong-trong-chop-mat-20180326104541018.htm" title="Sau th?m ho?, ch? ??u t? Carina Plaza m?t hàng tr?m t? ??ng trong ch?p m?t"> <span>2</span> <h3>Sau th?m ho?, ch? ??u t? Carina Plaza m?t hàng tr?m t? ??ng trong ch?p m?t</h3> </a> </li> 
+       <li> <a href="/su-kien/so-nguoi-chet-vu-chay-trung-tam-thuong-mai-nga-tang-len-64-20180326171520363.htm" title="S? ng??i ch?t v? cháy trung tâm th??ng m?i Nga t?ng lên 64"> <span>3</span> <h3>S? ng??i ch?t v? cháy trung tâm th??ng m?i Nga t?ng lên 64&nbsp;<i class="icon_autovideo"></i></h3> </a> </li> 
+       <li> <a href="/su-kien/a-rap-xe-ut-tung-hoa-luc-danh-chan-7-ten-lua-tan-cong-thu-do-20180326072405989.htm" title="?-r?p Xê-út tung h?a l?c ?ánh ch?n 7 tên l?a t?n công th? ?ô"> <span>4</span> <h3>?-r?p Xê-út tung h?a l?c ?ánh ch?n 7 tên l?a t?n công th? ?ô&nbsp;<i class="icon_autovideo"></i></h3> </a> </li> 
+       <li> <a href="/su-kien/nghien-rang-mua-balo-thoat-hiem-nghin-do-sau-tham-hoa-chay-chung-cu-20180326140353947.htm" title="&quot;Nghi?n r?ng&quot; mua balo thoát hi?m nghìn ?ô sau th?m h?a cháy chung c?"> <span>5</span> <h3>"Nghi?n r?ng" mua balo thoát hi?m nghìn ?ô sau th?m h?a cháy chung c?</h3> </a> </li> 
+       <li> <a href="/su-kien/cau-thu-qua-doi-vi-bi-sut-bong-trung-nguc-20180326170009866.htm" title="C?u th? qua ??i vì b?... sút bóng trúng ng?c"> <span>6</span> <h3>C?u th? qua ??i vì b?... sút bóng trúng ng?c&nbsp;<i class="icon_autovideo"></i></h3> </a> </li> 
+       <li> <a href="/su-kien/nhung-tin-nhan-keu-cuu-cua-tre-em-trong-vu-chay-chet-53-nguoi-o-nga-20180326132208007.htm" title="Nh?ng tin nh?n kêu c?u c?a tr? em trong v? cháy ch?t 53 ng??i ? Nga"> <span>7</span> <h3>Nh?ng tin nh?n kêu c?u c?a tr? em trong v? cháy ch?t 53 ng??i ? Nga&nbsp;<i class="icon_autovideo"></i></h3> </a> </li> 
+       <li> <a href="/su-kien/nhan-chung-vu-chay-quan-karaoke-13-nguoi-chet-may-cu-lam-di-chay-tao-chiu-20180326153153664.htm" title="Nhân ch?ng v? cháy quán karaoke 13 ng??i ch?t: “Mày c? làm ?i, cháy tao ch?u”"> <span>8</span> <h3>Nhân ch?ng v? cháy quán karaoke 13 ng??i ch?t: “Mày c? làm ?i, cháy tao ch?u”</h3> </a> </li> 
+       <li> <a href="/su-kien/da-xac-dinh-tai-xe-gac-chan-len-ghe-dieu-khien-xe-mot-tay-tren-cao-toc-20180326123218368.htm" title="?ã xác ??nh tài x? gác chân lên gh?, ?i?u khi?n xe m?t tay trên cao t?c"> <span>9</span> <h3>?ã xác ??nh tài x? gác chân lên gh?, ?i?u khi?n xe m?t tay trên cao t?c&nbsp;<i class="icon_autovideo"></i></h3> </a> </li> 
+       <li> <a href="/su-kien/nhat-duoc-ve-so-trung-23-ty-dong-dem-tra-lai-nguoi-mat-20180326141051951.htm" title="Nh?t ???c vé s? trúng 23 t? ??ng, ?em tr? l?i ng??i m?t"> <span>10</span> <h3>Nh?t ???c vé s? trúng 23 t? ??ng, ?em tr? l?i ng??i m?t</h3> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="cf cathv_w"> 
+      <div class="ovh cathv_w-head"> 
+       <a href="/video-page.htm" class="fl"> <i class="icon_media">&nbsp;</i>&nbsp;&nbsp;Video dân trí </a> 
+      </div> 
+      <div class="cf cathv_ct"> 
+       <div class="ovh top1"> 
+        <a href="/video/sat-lo-nui-de-doa-nguoi-dan-vung-cao-quang-ngai-78278.htm" title="S?t l? núi ?e d?a ng??i dân vùng cao Qu?ng Ngãi"> <img alt="S?t l? núi ?e d?a ng??i dân vùng cao Qu?ng Ngãi" class="lazy" src="http://video-thumbs.mediacdn.vn/zoom/48_30/dantri/dda2f51280/2018/03/26/sat-lo-nui-de-doa-nguoi-dan-vung-cao-tay-tra-1522049692971.jpg" data-src="http://video-thumbs.mediacdn.vn/zoom/480_300/dantri/dda2f51280/2018/03/26/sat-lo-nui-de-doa-nguoi-dan-vung-cao-tay-tra-1522049692971.jpg"> <span class="video_ico"></span> </a> 
+        <a class="ovh title" href="/video/sat-lo-nui-de-doa-nguoi-dan-vung-cao-quang-ngai-78278.htm" title="S?t l? núi ?e d?a ng??i dân vùng cao Qu?ng Ngãi"> <h3>S?t l? núi ?e d?a ng??i dân vùng cao Qu?ng Ngãi</h3> </a> 
+       </div> 
+       <div class="ovh top2"> 
+        <a class="ovh fl" href="/video/kham-xet-chi-nhanh-eximbank-tai-tphcm-78275.htm" title="Khám xét chi nhánh Eximbank t?i TPHCM"> <span> <img alt="Khám xét chi nhánh Eximbank t?i TPHCM" class="lazy" src="http://video-thumbs.mediacdn.vn/zoom/32_20/dantri/v53nqt2sccccccccccccsdh1gslecc/2018/03/26/plugin-clip-kham-xe-va-bat-nhan-vien-ngan-hang-1522047887352-d5f81.jpg" data-src="http://video-thumbs.mediacdn.vn/zoom/320_200/dantri/v53nqt2sccccccccccccsdh1gslecc/2018/03/26/plugin-clip-kham-xe-va-bat-nhan-vien-ngan-hang-1522047887352-d5f81.jpg"> <i class="video_ico"></i> </span> <h3>Khám xét chi nhánh Eximbank t?i TPHCM</h3> </a> 
+        <a class="ovh fr" href="/video/tai-xe-gac-chan-len-ghe-dieu-khien-xe-mot-tay-tren-cao-toc-78269.htm" title="Tài x? gác chân lên gh?, ?i?u khi?n xe m?t tay trên cao t?c"> <span> <img alt="Tài x? gác chân lên gh?, ?i?u khi?n xe m?t tay trên cao t?c" class="lazy" src="http://video-thumbs.mediacdn.vn/zoom/32_20/dantri/47bc7b66e6/2018/03/26/lai-xe-limousine-dieu-khien-mot-tay-chan-gac-ghe-1522038567200.jpg" data-src="http://video-thumbs.mediacdn.vn/zoom/320_200/dantri/47bc7b66e6/2018/03/26/lai-xe-limousine-dieu-khien-mot-tay-chan-gac-ghe-1522038567200.jpg"> <i class="video_ico"></i> </span> <h3>Tài x? gác chân lên gh?, ?i?u khi?n xe m?t tay trên cao t?c</h3> </a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="clearfix adv-box adv-magazine" id="adm-slot-35401"></div> 
+     <script type="text/javascript">'undefined' == typeof admicroMAD.show ? admicroMAD.unit.push(function () { admicroMAD.show('adm-slot-35401') }) : admicroMAD.show('adm-slot-35401');</script> 
+     <div class="ovh cath"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/xa-hoi.htm" title="Xã h?i" style="color: #0067d8">Xã h?i</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/xa-hoi/chinh-tri.htm" title="Chính tr?">Chính tr?</a></li> 
+        <li><a href="/xa-hoi/phong-su-ky-su.htm" title="Phóng s?-Ký s?">Phóng s?-Ký s?</a></li> 
+        <li><a href="/xa-hoi/giao-thong.htm" title="Giao thông">Giao thông</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/xa-hoi/ho-so.htm" title="H? s?">H? s?</a></li> 
+        <li><a href="/xa-hoi/moi-truong.htm" title="Môi tr??ng">Môi tr??ng</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <a href="/xa-hoi/xe-khach-danh-vong-nhu-rang-lac-khong-cho-o-to-con-vuot-tren-cao-toc-20180326145334198.htm" title="Xe khách ?ánh võng “nh? rang l?c”, không cho ô tô con v??t trên cao t?c"> <img alt="Xe khách ?ánh võng “nh? rang l?c”, không cho ô tô con v??t trên cao t?c" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/26/ok-1522050591852233557615.gif.png" data-src="http://dantricdn.com/zoom/480_300/2018/3/26/ok-1522050591852233557615.gif.png"> <h3>Xe khách ?ánh võng “nh? rang l?c”, không cho ô tô con v??t trên cao t?c&nbsp;<i class="icon_video"></i></h3> </a> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 14:59</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/xa-hoi/ha-noi-hang-ngan-gia-dinh-song-trong-chung-cu-chua-nghiem-thu-phong-chay-20180326134647469.htm" title="Hà N?i: Hàng ngàn gia ?ình s?ng trong chung c? ch?a nghi?m thu phòng cháy" data-type="0"> <img alt="Hà N?i: Hàng ngàn gia ?ình s?ng trong chung c? ch?a nghi?m thu phòng cháy" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/ffsfsf-1522045824713692370566.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/ffsfsf-1522045824713692370566.jpg"> <h3>Hà N?i: Hàng ngàn gia ?ình s?ng trong chung c? ch?a nghi?m thu phòng cháy</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 15:56</i>
+         </div> </a> </li> 
+       <li> <a href="/xa-hoi/hang-tram-ngan-m3-dat-da-treo-tren-dau-nguoi-dan-20180326151712198.htm" title="Hàng tr?m ngàn m3 ??t ?á &quot;treo&quot; trên ??u ng??i dân" data-type="0"> <img alt="Hàng tr?m ngàn m3 ??t ?á &quot;treo&quot; trên ??u ng??i dân" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/hinh-1-15220500370411831696529.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/hinh-1-15220500370411831696529.jpg"> <h3>Hàng tr?m ngàn m3 ??t ?á "treo" trên ??u ng??i dân</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 15:22</i>
+         </div> </a> </li> 
+       <li> <a href="/xa-hoi/vu-em-trai-chon-thi-the-chi-gai-trong-nha-chinh-quyen-noi-gi-20180326152557136.htm" title="V? em trai chôn thi th? ch? gái trong nhà: Chính quy?n nói gì?" data-type="0"> <img alt="V? em trai chôn thi th? ch? gái trong nhà: Chính quy?n nói gì?" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/cc1-15220463832701829808723.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/cc1-15220463832701829808723.jpg"> <h3>V? em trai chôn thi th? ch? gái trong nhà: Chính quy?n nói gì?</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 15:19</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/the-gioi.htm" title="Th? gi?i" style="color: #0067d8">Th? gi?i</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/the-gioi/chau-a.htm" title="Châu Á">Châu Á</a></li> 
+        <li><a href="/the-gioi/eu-nga.htm" title="EU &amp; Nga">EU &amp; Nga</a></li> 
+        <li><a href="/the-gioi/chau-my.htm" title="Châu M?">Châu M?</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/the-gioi/diem-nong.htm" title="?i?m nóng">?i?m nóng</a></li> 
+        <li><a href="/the-gioi/tu-lieu.htm" title="T? li?u">T? li?u</a></li> 
+        <li><a href="/the-gioi/kieu-bao.htm" title="Ki?u bào">Ki?u bào</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <a href="/the-gioi/nguoi-dan-nhay-lau-thoat-than-trong-vu-chay-tai-nga-20180326163544815.htm" title="Ng??i dân nh?y l?u thoát thân trong v? cháy t?i Nga"> <img alt="Ng??i dân nh?y l?u thoát thân trong v? cháy t?i Nga" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/26/nga-1-crop-15220432822971227492629.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/26/nga-1-crop-15220432822971227492629.jpg"> <h3>Ng??i dân nh?y l?u thoát thân trong v? cháy t?i Nga&nbsp;<i class="icon_autovideo"></i></h3> </a> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 16:37</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/the-gioi/so-nguoi-chet-vu-chay-trung-tam-thuong-mai-nga-tang-len-64-20180326171520363.htm" title="S? ng??i ch?t v? cháy trung tâm th??ng m?i Nga t?ng lên 64" data-type="13"> <img alt="S? ng??i ch?t v? cháy trung tâm th??ng m?i Nga t?ng lên 64" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/mga-1522058809158317402117-1522059331274357318159.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/mga-1522058809158317402117-1522059331274357318159.jpg"> <h3>S? ng??i ch?t v? cháy trung tâm th??ng m?i Nga t?ng lên 64&nbsp;<i class="icon_autovideo"></i></h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 17:16</i>
+         </div> </a> </li> 
+       <li> <a href="/the-gioi/ngoi-sao-gangnam-style-co-the-bieu-dien-trong-chuong-trinh-lich-su-tai-trieu-tien-20180326150100075.htm" title="Ngôi sao “Gangnam Style” có th? bi?u di?n trong ch??ng trình l?ch s? t?i Tri?u Tiên" data-type="0"> <img alt="Ngôi sao “Gangnam Style” có th? bi?u di?n trong ch??ng trình l?ch s? t?i Tri?u Tiên" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/han-quoc-152205083885060358087.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/han-quoc-152205083885060358087.jpg"> <h3>Ngôi sao “Gangnam Style” có th? bi?u di?n trong ch??ng trình l?ch s? t?i Tri?u Tiên</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 15:05</i>
+         </div> </a> </li> 
+       <li> <a href="/the-gioi/ly-do-nao-khien-cong-nghe-may-bay-canh-nguoc-nhanh-chong-bien-mat-20180326133808275.htm" title="Lý do nào khi?n công ngh? máy bay &quot;cánh ng??c&quot; nhanh chóng bi?n m?t?" data-type="0"> <img alt="Lý do nào khi?n công ngh? máy bay &quot;cánh ng??c&quot; nhanh chóng bi?n m?t?" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/su-47ava-15220461318741072881706.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/su-47ava-15220461318741072881706.jpg"> <h3>Lý do nào khi?n công ngh? máy bay "cánh ng??c" nhanh chóng bi?n m?t?</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 14:17</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/the-thao.htm" title="Th? thao" style="color: #0067d8">Th? thao</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/the-thao/the-thao-trong-nuoc.htm" title="Th? thao trong n??c">Th? thao trong n??c</a></li> 
+        <li><a href="/the-thao/the-thao-quoc-te.htm" title="Th? thao qu?c t?">Th? thao qu?c t?</a></li> 
+        <li><a href="/the-thao/bong-da-trong-nuoc.htm" title="Bóng ?á trong n??c">Bóng ?á trong n??c</a></li> 
+        <li><a href="/the-thao/bong-da-chau-au.htm" title="Bóng ?á châu Âu">Bóng ?á châu Âu</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/the-thao/bong-da-anh.htm" title="Bóng ?á Anh">Bóng ?á Anh</a></li> 
+        <li><a href="/the-thao/bong-da-tbn.htm" title="Bóng ?á TBN">Bóng ?á TBN</a></li> 
+        <li><a href="/the-thao/tennis.htm" title="Tennis">Tennis</a></li> 
+        <li><a href="/the-thao/co-vua.htm" title="C? vua">C? vua</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <a href="/the-thao/mourinho-chi-hanh-phuc-khi-gay-chien-20180326170231976.htm" title="“Mourinho ch? h?nh phúc khi... gây chi?n”"> <img alt="“Mourinho ch? h?nh phúc khi... gây chi?n”" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/26/josemourinho-1522049951815378909731.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/26/josemourinho-1522049951815378909731.jpg"> <h3>“Mourinho ch? h?nh phúc khi... gây chi?n”</h3> </a> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 17:02</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/the-thao/dinh-don-cua-messi-thai-lan-cuu-ngoi-sao-liverpool-bat-tinh-20180326170128332.htm" title="“Dính ?òn” c?a “Messi Thái Lan”, c?u ngôi sao Liverpool b?t t?nh" data-type="0"> <img alt="“Dính ?òn” c?a “Messi Thái Lan”, c?u ngôi sao Liverpool b?t t?nh" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/martin-skrtel-1522039845450117954565.png" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/martin-skrtel-1522039845450117954565.png"> <h3>“Dính ?òn” c?a “Messi Thái Lan”, c?u ngôi sao Liverpool b?t t?nh</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 17:02</i>
+         </div> </a> </li> 
+       <li> <a href="/the-thao/cau-thu-qua-doi-vi-bi-sut-bong-trung-nguc-20180326170009866.htm" title="C?u th? qua ??i vì b?... sút bóng trúng ng?c" data-type="13"> <img alt="C?u th? qua ??i vì b?... sút bóng trúng ng?c" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/bruno-boban-crop-1522051342343689238572.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/bruno-boban-crop-1522051342343689238572.jpg"> <h3>C?u th? qua ??i vì b?... sút bóng trúng ng?c&nbsp;<i class="icon_autovideo"></i></h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 17:00</i>
+         </div> </a> </li> 
+       <li> <a href="/the-thao/doi-hinh-nao-cho-doi-tuyen-viet-nam-truoc-jordan-20180326100451167.htm" title="??i hình nào cho ??i tuy?n Vi?t Nam tr??c Jordan?" data-type="0"> <img alt="??i hình nào cho ??i tuy?n Vi?t Nam tr??c Jordan?" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/21/quanghai21-3-18-1521607639388241517777.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/21/quanghai21-3-18-1521607639388241517777.jpg"> <h3>??i hình nào cho ??i tuy?n Vi?t Nam tr??c Jordan?</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 14:00</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/giao-duc-khuyen-hoc.htm" title="Giáo d?c - Khuy?n h?c" style="color: #0067d8">Giáo d?c - Khuy?n h?c</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/giao-duc-khuyen-hoc/tin-tuyen-sinh.htm" title="Tin tuy?n sinh">Tin tuy?n sinh</a></li> 
+        <li><a href="/giao-duc-khuyen-hoc/khuyen-hoc.htm" title="Khuy?n h?c">Khuy?n h?c</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/giao-duc-khuyen-hoc/guong-sang.htm" title="G??ng sáng">G??ng sáng</a></li> 
+        <li><a href="/giao-duc-khuyen-hoc/ielts-cung-scots.htm" title="IELTS cùng Scots">IELTS cùng Scots</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <a href="/giao-duc-khuyen-hoc/xon-xao-clip-giun-xuat-hien-trong-ca-nuc-hap-tai-bua-an-truong-noi-tru-20180326143038163.htm" title="Xôn xao clip giun xu?t hi?n trong cá n?c h?p t?i b?a ?n tr??ng n?i trú"> <img alt="Xôn xao clip giun xu?t hi?n trong cá n?c h?p t?i b?a ?n tr??ng n?i trú" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/26/296805521584228271694568786816312o-crop-15220437575992086088581.png" data-src="http://dantricdn.com/zoom/480_300/2018/3/26/296805521584228271694568786816312o-crop-15220437575992086088581.png"> <h3>Xôn xao clip giun xu?t hi?n trong cá n?c h?p t?i b?a ?n tr??ng n?i trú&nbsp;<i class="icon_video"></i></h3> </a> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 14:30</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/giao-duc-khuyen-hoc/truong-dh-giao-thong-van-tai-to-chuc-thi-thu-thpt-quoc-gia-2018-20180326161810529.htm" title="Tr??ng ?H Giao thông v?n t?i t? ch?c thi th? THPT qu?c gia 2018?" data-type="0"> <img alt="Tr??ng ?H Giao thông v?n t?i t? ch?c thi th? THPT qu?c gia 2018?" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/thi-thu-1-1522054835618760262467.png" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/thi-thu-1-1522054835618760262467.png"> <h3>Tr??ng ?H Giao thông v?n t?i t? ch?c thi th? THPT qu?c gia 2018?</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 16:15</i>
+         </div> </a> </li> 
+       <li> <a href="/giao-duc-khuyen-hoc/6-luu-y-quan-trong-khi-dang-ky-du-thi-thpt-quoc-gia-2018-20180326151031902.htm" title="6 l?u ý quan tr?ng khi ??ng ký d? thi THPT qu?c gia 2018" data-type="0"> <img alt="6 l?u ý quan tr?ng khi ??ng ký d? thi THPT qu?c gia 2018" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/25/29681492959269607587713809441302o-1521960916450342596463.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/25/29681492959269607587713809441302o-1521960916450342596463.jpg"> <h3>6 l?u ý quan tr?ng khi ??ng ký d? thi THPT qu?c gia 2018</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 15:09</i>
+         </div> </a> </li> 
+       <li> <a href="/tuyen-sinh/hon-3500-hoc-sinh-thi-thu-kiem-tra-nang-luc-vao-dai-hoc-2018032611133963.htm" title="H?n 3.500 h?c sinh thi th? ki?m tra n?ng l?c vào ??i h?c" data-type="0"> <img alt="H?n 3.500 h?c sinh thi th? ki?m tra n?ng l?c vào ??i h?c" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/thi-sinh-thi-thu-ky-kiem-tra-nang-luc-cua-dhqt--1522036496087813744839.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/thi-sinh-thi-thu-ky-kiem-tra-nang-luc-cua-dhqt--1522036496087813744839.jpg"> <h3>H?n 3.500 h?c sinh thi th? ki?m tra n?ng l?c vào ??i h?c</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 11:13</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/tam-long-nhan-ai.htm" title="T?m lòng nhân ái" style="color: #0067d8">T?m lòng nhân ái</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/tam-long-nhan-ai/danh-sach-ung-ho.htm" title="Danh sách ?ng h?">Danh sách ?ng h?</a></li> 
+        <li><a href="/tam-long-nhan-ai/danh-sach-ket-chuyen.htm" title="Danh sách k?t chuy?n">Danh sách k?t chuy?n</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/tam-long-nhan-ai/hoan-canh.htm" title="Hoàn c?nh">Hoàn c?nh</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <a href="/tam-long-nhan-ai/nguoi-cha-ngheo-nguy-kich-con-gai-nho-nguy-co-that-hoc-20180325213037075.htm" title="Ng??i cha nghèo nguy k?ch, con gái nh? nguy c? th?t h?c"> <img alt="Ng??i cha nghèo nguy k?ch, con gái nh? nguy c? th?t h?c" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/24/benh-nhan-ngheo-2-15219087899351585084948.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/24/benh-nhan-ngheo-2-15219087899351585084948.jpg"> <h3>Ng??i cha nghèo nguy k?ch, con gái nh? nguy c? th?t h?c</h3> </a> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 06:00</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/tam-long-nhan-ai/hon-78-trieu-dong-den-voi-nguoi-me-bi-u-nao-20180326070707799.htm" title="H?n 78 tri?u ??ng ??n v?i ng??i m? b? u não" data-type="0"> <img alt="H?n 78 tri?u ??ng ??n v?i ng??i m? b? u não" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/24/dsc1905-1521901353091366876950.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/24/dsc1905-1521901353091366876950.jpg"> <h3>H?n 78 tri?u ??ng ??n v?i ng??i m? b? u não</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 07:07</i>
+         </div> </a> </li> 
+       <li> <a href="/tam-long-nhan-ai/vo-chong-ngheo-quan-long-nhin-con-trai-bi-than-hu-khang-thuoc-20180325081835085.htm" title="V? ch?ng nghèo qu?n lòng nhìn con trai b? th?n h? kháng thu?c" data-type="0"> <img alt="V? ch?ng nghèo qu?n lòng nhìn con trai b? th?n h? kháng thu?c" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/2/24/nhan-ai-2-15194859690271479423280.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/2/24/nhan-ai-2-15194859690271479423280.jpg"> <h3>V? ch?ng nghèo qu?n lòng nhìn con trai b? th?n h? kháng thu?c</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>25/03/2018 14:00</i>
+         </div> </a> </li> 
+       <li> <a href="/tam-long-nhan-ai/hon-128-trieu-dong-den-voi-ong-bo-rao-ban-than-cuu-con-bi-u-nao-20180325072516191.htm" title="H?n 128 tri?u ??ng ??n v?i ông b? rao bán th?n c?u con b? u não" data-type="0"> <img alt="H?n 128 tri?u ??ng ??n v?i ông b? rao bán th?n c?u con b? u não" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/24/img4001-15218573986971217276491.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/24/img4001-15218573986971217276491.jpg"> <h3>H?n 128 tri?u ??ng ??n v?i ông b? rao bán th?n c?u con b? u não</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>25/03/2018 07:25</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/kinh-doanh.htm" title="Kinh doanh" style="color: #0067d8">Kinh doanh</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/kinh-doanh/tai-chinh-dau-tu.htm" title="Tài chính - ??u t?">Tài chính - ??u t?</a></li> 
+        <li><a href="/kinh-doanh/thi-truong.htm" title="Th? tr??ng">Th? tr??ng</a></li> 
+        <li><a href="/kinh-doanh/doanh-nghiep.htm" title="Doanh nghi?p">Doanh nghi?p</a></li> 
+        <li><a href="/kinh-doanh/khoi-nghiep.htm" title="Kh?i nghi?p">Kh?i nghi?p</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/kinh-doanh/bao-ve-ntd.htm" title="B?o v? NTD">B?o v? NTD</a></li> 
+        <li><a href="/kinh-doanh/quoc-te.htm" title="Qu?c t?">Qu?c t?</a></li> 
+        <li><a href="/kinh-doanh/nha-dat.htm" title="Nhà ??t">Nhà ??t</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <a href="/kinh-doanh/sau-tham-hoa-chay-chung-cu-dan-ha-noi-san-balo-thoat-hiem-gia-nghin-do-20180326140353947.htm" title="&quot;Nghi?n r?ng&quot; mua balo thoát hi?m nghìn ?ô sau th?m h?a cháy chung c?"> <img alt="&quot;Nghi?n r?ng&quot; mua balo thoát hi?m nghìn ?ô sau th?m h?a cháy chung c?" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/26/3110757skysaver01-15220469020661537695485.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/26/3110757skysaver01-15220469020661537695485.jpg"> <h3>"Nghi?n r?ng" mua balo thoát hi?m nghìn ?ô sau th?m h?a cháy chung c?</h3> </a> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 14:10</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/kinh-doanh/nhat-duoc-ve-so-trung-23-ty-dong-dem-tra-lai-nguoi-mat-20180326141051951.htm" title="Nh?t ???c vé s? trúng 23 t? ??ng, ?em tr? l?i ng??i m?t" data-type="0"> <img alt="Nh?t ???c vé s? trúng 23 t? ??ng, ?em tr? l?i ng??i m?t" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/money3-15220415559471874439423.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/money3-15220415559471874439423.jpg"> <h3>Nh?t ???c vé s? trúng 23 t? ??ng, ?em tr? l?i ng??i m?t</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 16:00</i>
+         </div> </a> </li> 
+       <li> <a href="/kinh-doanh/thu-tuong-agribank-phai-duoc-co-cau-lai-toan-dien-20180326151127787.htm" title="Th? t??ng: Agribank ph?i ???c c? c?u l?i toàn di?n" data-type="0"> <img alt="Th? t??ng: Agribank ph?i ???c c? c?u l?i toàn di?n" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/thu-tuong-nguyen-xuan-phuc-1522051575645753215249.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/thu-tuong-nguyen-xuan-phuc-1522051575645753215249.jpg"> <h3>Th? t??ng: Agribank ph?i ???c c? c?u l?i toàn di?n</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 15:10</i>
+         </div> </a> </li> 
+       <li> <a href="/kinh-doanh/ep-nhan-nha-tang-dien-tich-hang-chuc-m2-chu-dau-tu-loi-dung-so-ho-nguoi-mua-2018032611525224.htm" title="“Ép” nh?n nhà t?ng di?n tích hàng ch?c m2: Ch? ??u t? “l?i d?ng” s? h? ng??i mua?" data-type="0"> <img alt="“Ép” nh?n nhà t?ng di?n tích hàng ch?c m2: Ch? ??u t? “l?i d?ng” s? h? ng??i mua?" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/discovery-1522034821818354315194.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/discovery-1522034821818354315194.jpg"> <h3>“Ép” nh?n nhà t?ng di?n tích hàng ch?c m2: Ch? ??u t? “l?i d?ng” s? h? ng??i mua?</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 14:00</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/van-hoa.htm" title="V?n hóa" style="color: #0067d8">V?n hóa</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/van-hoa/doi-song-van-hoa.htm" title="??i s?ng v?n hóa">??i s?ng v?n hóa</a></li> 
+        <li><a href="/van-hoa/san-khau-dan-gian.htm" title="Sân kh?u - Dân gian">Sân kh?u - Dân gian</a></li> 
+        <li><a href="/van-hoa/du-lich-kham-pha.htm" title="Du l?ch - Khám phá">Du l?ch - Khám phá</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/van-hoa/dien-anh.htm" title="?i?n ?nh">?i?n ?nh</a></li> 
+        <li><a href="/van-hoa/van-hoc.htm" title="V?n h?c">V?n h?c</a></li> 
+        <li><a href="/van-hoa/am-nhac.htm" title="Âm nh?c">Âm nh?c</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <a href="/van-hoa/nhung-goc-khuat-cua-nghe-si-xiec-khien-ai-nghe-cung-phai-dau-long-20180326134600257.htm" title="Nh?ng “góc khu?t” c?a ngh? s? xi?c khi?n ai nghe c?ng ph?i ?au lòng"> <img alt="Nh?ng “góc khu?t” c?a ngh? s? xi?c khi?n ai nghe c?ng ph?i ?au lòng" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/26/5868ha-noi-nhung-giac-mo-1-1522041641060896211379.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/26/5868ha-noi-nhung-giac-mo-1-1522041641060896211379.jpg"> <h3>Nh?ng “góc khu?t” c?a ngh? s? xi?c khi?n ai nghe c?ng ph?i ?au lòng</h3> </a> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 13:47</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/van-hoa/dieu-gi-trong-qua-khu-khien-ban-nho-nhat-truoc-khi-biet-den-internet-20180326134809853.htm" title="?i?u gì trong quá kh? khi?n b?n nh? nh?t tr??c khi bi?t ??n Internet?" data-type="0"> <img alt="?i?u gì trong quá kh? khi?n b?n nh? nh?t tr??c khi bi?t ??n Internet?" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/7-crop-15220438499441322236365.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/7-crop-15220438499441322236365.jpg"> <h3>?i?u gì trong quá kh? khi?n b?n nh? nh?t tr??c khi bi?t ??n Internet?</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 13:49</i>
+         </div> </a> </li> 
+       <li> <a href="/van-hoa/tra-tien-de-duoc-song-nhu-trieu-phu-o-chuot-20180326111011546.htm" title="Tr? ti?n ?? ???c s?ng nh? “Tri?u phú ? chu?t”" data-type="0"> <img alt="Tr? ti?n ?? ???c s?ng nh? “Tri?u phú ? chu?t”" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/4-crop-1522035445899803434178.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/4-crop-1522035445899803434178.jpg"> <h3>Tr? ti?n ?? ???c s?ng nh? “Tri?u phú ? chu?t”</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 11:11</i>
+         </div> </a> </li> 
+       <li> <a href="/van-hoa/xuat-hien-ban-sao-tung-duong-khien-le-minh-son-phai-nghieng-minh-20180326073438078.htm" title="Xu?t hi?n b?n sao Tùng D??ng khi?n Lê Minh S?n ph?i &quot;nghiêng mình&quot;" data-type="3"> <img alt="Xu?t hi?n b?n sao Tùng D??ng khi?n Lê Minh S?n ph?i &quot;nghiêng mình&quot;" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/ban-sao-tung-duong-15220236965572116342711.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/ban-sao-tung-duong-15220236965572116342711.jpg"> <h3>Xu?t hi?n b?n sao Tùng D??ng khi?n Lê Minh S?n ph?i "nghiêng mình"&nbsp;<i class="icon_img"></i></h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 09:36</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/giai-tri.htm" title="Gi?i trí" style="color: #0067d8">Gi?i trí</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/giai-tri/sao-viet.htm" title="Sao Vi?t">Sao Vi?t</a></li> 
+        <li><a href="/giai-tri/hollywood.htm" title="Hollywood">Hollywood</a></li> 
+        <li><a href="/giai-tri/chau-a.htm" title="Châu Á">Châu Á</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/giai-tri/thoi-trang.htm" title="Th?i trang">Th?i trang</a></li> 
+        <li><a href="/giai-tri/xem-an-choi.htm" title="Xem - ?n - Ch?i">Xem - ?n - Ch?i</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <a href="/giai-tri/truong-giang-nghen-ngao-hat-vi-chia-tay-nha-phuong-bon-cu-soan-lai-20180326142629158.htm" title="Tr??ng Giang ngh?n ngào hát vì chia tay Nhã Ph??ng, &quot;b?n c? so?n l?i&quot;?"> <img alt="Tr??ng Giang ngh?n ngào hát vì chia tay Nhã Ph??ng, &quot;b?n c? so?n l?i&quot;?" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/26/nha-phuong-9-1522040612215673862269.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/26/nha-phuong-9-1522040612215673862269.jpg"> <h3>Tr??ng Giang ngh?n ngào hát vì chia tay Nhã Ph??ng, "b?n c? so?n l?i"?</h3> </a> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 14:30</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/giai-tri/mariah-carey-cung-chong-cu-du-su-kien-20180326082120382.htm" title="Mariah Carey cùng ch?ng c? d? s? ki?n" data-type="2"> <img alt="Mariah Carey cùng ch?ng c? d? s? ki?n" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/3-crop-15220271075801095351246.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/3-crop-15220271075801095351246.jpg"> <h3>Mariah Carey cùng ch?ng c? d? s? ki?n&nbsp;<i class="icon_video"></i></h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 17:23</i>
+         </div> </a> </li> 
+       <li> <a href="/giai-tri/declan-20180326085238324.htm" title="Lilly Becker quy?n r? ? tu?i 41; Tiffany Watson th? giãn t?i Miami" data-type="0"> <img alt="Lilly Becker quy?n r? ? tu?i 41; Tiffany Watson th? giãn t?i Miami" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/8-15220301507281845051293.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/8-15220301507281845051293.jpg"> <h3>Lilly Becker quy?n r? ? tu?i 41; Tiffany Watson th? giãn t?i Miami</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 14:24</i>
+         </div> </a> </li> 
+       <li> <a href="/giai-tri/danielle-sellers-2018032518430958.htm" title="Danielle Sellers b?c l?a v?i áo t?m hai m?nh" data-type="0"> <img alt="Danielle Sellers b?c l?a v?i áo t?m hai m?nh" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/25/b10-15219779421361880055411.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/25/b10-15219779421361880055411.jpg"> <h3>Danielle Sellers b?c l?a v?i áo t?m hai m?nh</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 13:59</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath cath2"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/du-lich.htm" title="Du l?ch" style="color: #0067d8">Du l?ch</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/du-lich/vong-quay-du-lich.htm" title="Vòng quay du l?ch">Vòng quay du l?ch</a></li> 
+        <li><a href="/du-lich/kham-pha.htm" title="Khám phá">Khám phá</a></li> 
+        <li><a href="/du-lich/mon-ngon-diem-dep.htm" title="Món ngon - ?i?m ??p">Món ngon - ?i?m ??p</a></li> 
+        <li><a href="/du-lich/tour-hay-khuyen-mai.htm" title="Tour hay - Khuy?n m?i">Tour hay - Khuy?n m?i</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/du-lich/video-anh.htm" title="Video - ?nh">Video - ?nh</a></li> 
+        <li><a href="/du-lich/diem-den-moi-tuan.htm" title="?i?m ??n m?i tu?n">?i?m ??n m?i tu?n</a></li> 
+        <li><a href="/du-lich/tours-ua-thich.htm" title="Tours ?a thích">Tours ?a thích</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <h3><a href="/du-lich/su-thu-vi-cua-ngoi-den-xay-gan-nua-the-ky-mai-chua-xong-20180326064515957.htm" title="S? thú v? c?a ngôi ??n xây g?n n?a th? k? mãi ch?a xong">S? thú v? c?a ngôi ??n xây g?n n?a th? k? mãi ch?a xong</a></h3> 
+       <div class="ovh"> 
+        <a href="/du-lich/su-thu-vi-cua-ngoi-den-xay-gan-nua-the-ky-mai-chua-xong-20180326064515957.htm"><img alt="S? thú v? c?a ngôi ??n xây g?n n?a th? k? mãi ch?a xong" class="lazy" src="http://dantricdn.com/zoom/16_10/2018/3/25/sanctuary-of-truth-2-15219952947581015286531.jpg" data-src="http://dantricdn.com/zoom/160_100/2018/3/25/sanctuary-of-truth-2-15219952947581015286531.jpg"></a> 
+        <p class="collapse_txt">(Dân trí) - Cách trung tâm thành ph? bi?n Pattaya sôi ??ng ch?ng 10 km là m?t ngôi ??n ??c ... </p> 
+       </div> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 10:46</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/du-lich/an-may-o-tau-dien-ngam-kiem-moi-ngay-ca-trieu-dong-20180326122708336.htm" title="?n mày ? tàu ?i?n ng?m ki?m m?i ngày c? tri?u ??ng" data-type="0"> <h3>?n mày ? tàu ?i?n ng?m ki?m m?i ngày c? tri?u ??ng</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 12:28</i>
+         </div> </a> </li> 
+       <li> <a href="/du-lich/nhung-diem-check-in-doc-la-khi-toi-sapa-20180326070129611.htm" title="Nh?ng ?i?m check in ??c, l? khi t?i Sapa" data-type="0"> <h3>Nh?ng ?i?m check in ??c, l? khi t?i Sapa</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 07:00</i>
+         </div> </a> </li> 
+       <li> <a href="/du-lich/chu-khi-gay-sot-voi-guong-mat-giong-nguoi-dan-ong-cau-kinh-20180325214240792.htm" title="Chú kh? &quot;gây s?t&quot; v?i g??ng m?t gi?ng... ng??i ?àn ông cáu k?nh" data-type="0"> <h3>Chú kh? "gây s?t" v?i g??ng m?t gi?ng... ng??i ?àn ông cáu k?nh</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 06:00</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/phap-luat.htm" title="Pháp lu?t" style="color: #0067d8">Pháp lu?t</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+      </div> 
+      <div class="ovh top1"> 
+       <a href="/phap-luat/nhan-chung-vu-chay-quan-karaoke-13-nguoi-chet-may-cu-lam-di-chay-tao-chiu-20180326153153664.htm" title="Nhân ch?ng v? cháy quán karaoke 13 ng??i ch?t: “Mày c? làm ?i, cháy tao ch?u”"> <img alt="Nhân ch?ng v? cháy quán karaoke 13 ng??i ch?t: “Mày c? làm ?i, cháy tao ch?u”" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/26/chay-karaoke1-15220529894561006252797.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/26/chay-karaoke1-15220529894561006252797.jpg"> <h3>Nhân ch?ng v? cháy quán karaoke 13 ng??i ch?t: “Mày c? làm ?i, cháy tao ch?u”</h3> </a> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 14:31</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/phap-luat/con-re-6-lan-dot-nhap-nha-me-vo-lay-trom-tien-vang-20180323142723408.htm" title="Con r? 6 l?n ??t nh?p nhà m? v? l?y tr?m ti?n, vàng" data-type="0"> <img alt="Con r? 6 l?n ??t nh?p nhà m? v? l?y tr?m ti?n, vàng" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/23/trom-cuop3-1521780319446848627022.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/23/trom-cuop3-1521780319446848627022.jpg"> <h3>Con r? 6 l?n ??t nh?p nhà m? v? l?y tr?m ti?n, vàng</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 17:24</i>
+         </div> </a> </li> 
+       <li> <a href="/phap-luat/tu-xung-la-nhan-vien-cong-ty-bat-dong-san-lua-dao-chiem-doat-hon-5-ty-dong-20180326164635347.htm" title="T? x?ng là nhân viên công ty b?t ??ng s?n, l?a ??o chi?m ?o?t h?n 5 t? ??ng" data-type="0"> <img alt="T? x?ng là nhân viên công ty b?t ??ng s?n, l?a ??o chi?m ?o?t h?n 5 t? ??ng" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/bi-cao-hao-15220554888121924279588.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/bi-cao-hao-15220554888121924279588.jpg"> <h3>T? x?ng là nhân viên công ty b?t ??ng s?n, l?a ??o chi?m ?o?t h?n 5 t? ??ng</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 16:47</i>
+         </div> </a> </li> 
+       <li> <a href="/phap-luat/ve-gio-cha-hung-thu-giet-nguoi-bi-bat-sau-16-nam-lan-tron-20180326162034052.htm" title="V? gi? cha, hung th? gi?t ng??i b? b?t sau 16 n?m l?n tr?n" data-type="0"> <img alt="V? gi? cha, hung th? gi?t ng??i b? b?t sau 16 n?m l?n tr?n" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/img1341-15220538181361750841276.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/img1341-15220538181361750841276.jpg"> <h3>V? gi? cha, hung th? gi?t ng??i b? b?t sau 16 n?m l?n tr?n</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 16:30</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/nhip-song-tre.htm" title="Nh?p s?ng tr?" style="color: #0067d8">Nh?p s?ng tr?</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/nhip-song-tre/nguoi-viet-tre.htm" title="Ng??i Vi?t tr?">Ng??i Vi?t tr?</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/nhip-song-tre/phong-su-tre.htm" title="Phóng s? tr?">Phóng s? tr?</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <a href="/nhip-song-tre/doc-dao-bo-anh-cuoi-co-dau-chu-re-mac-ao-doan-thanh-nien-20180326074244222.htm" title="??c ?áo b? ?nh c??i cô dâu chú r? m?c áo ?oàn thanh niên"> <img alt="??c ?áo b? ?nh c??i cô dâu chú r? m?c áo ?oàn thanh niên" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/8/anh-cuoi-ao-doan-6-1520518765118728179640.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/8/anh-cuoi-ao-doan-6-1520518765118728179640.jpg"> <h3>??c ?áo b? ?nh c??i cô dâu chú r? m?c áo ?oàn thanh niên&nbsp;<i class="icon_img"></i></h3> </a> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 09:00</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/nhip-song-tre/pho-bi-thu-doan-tre-tuoi-nhat-nhan-giai-thuong-ly-tu-trong-2018-2018032607305129.htm" title="Phó Bí th? ?oàn tr? tu?i nh?t nh?n gi?i th??ng Lý T? Tr?ng 2018" data-type="0"> <img alt="Phó Bí th? ?oàn tr? tu?i nh?t nh?n gi?i th??ng Lý T? Tr?ng 2018" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/25/nhut-hong-ly-tu-trong-1-15219658000251096734463.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/25/nhut-hong-ly-tu-trong-1-15219658000251096734463.jpg"> <h3>Phó Bí th? ?oàn tr? tu?i nh?t nh?n gi?i th??ng Lý T? Tr?ng 2018</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 07:42</i>
+         </div> </a> </li> 
+       <li> <a href="/nhip-song-tre/nam-sinh-thi-tuan-khong-doi-thu-bat-khoc-vi-thua-o-cuoc-thi-thang-olympia-20180326064157086.htm" title="Nam sinh &quot;thi Tu?n không ??i th?&quot; b?t khóc vì thua ? cu?c thi Tháng Olympia" data-type="0"> <img alt="Nam sinh &quot;thi Tu?n không ??i th?&quot; b?t khóc vì thua ? cu?c thi Tháng Olympia" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/25/7l7xgo-15219809308942021762716-152198377112723377324.gif.png" data-src="http://dantricdn.com/zoom/100_100/2018/3/25/7l7xgo-15219809308942021762716-152198377112723377324.gif.png"> <h3>Nam sinh "thi Tu?n không ??i th?" b?t khóc vì thua ? cu?c thi Tháng Olympia</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 06:45</i>
+         </div> </a> </li> 
+       <li> <a href="/nhip-song-tre/tuoi-tre-can-vuon-len-manh-me-de-dua-dat-nuoc-thanh-con-ho-con-rong-moi-cua-the-gioi-20180326063728842.htm" title="&quot;Tu?i tr? c?n v??n lên m?nh m? ?? ??a ??t n??c thành con h?, con r?ng m?i c?a th? gi?i&quot;" data-type="0"> <img alt="&quot;Tu?i tr? c?n v??n lên m?nh m? ?? ??a ??t n??c thành con h?, con r?ng m?i c?a th? gi?i&quot;" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/25/guong-mat-tre-viet-nam-tieu-bieu-20173-1521997113440890277045.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/25/guong-mat-tre-viet-nam-tieu-bieu-20173-1521997113440890277045.jpg"> <h3>"Tu?i tr? c?n v??n lên m?nh m? ?? ??a ??t n??c thành con h?, con r?ng m?i c?a th? gi?i"</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 06:41</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="clearfix adv-box adv-magazine" id="adm-slot-7258"></div> 
+     <script type="text/javascript">'undefined' == typeof admicroMAD.show ? admicroMAD.unit.push(function () { admicroMAD.show('adm-slot-7258') }) : admicroMAD.show('adm-slot-7258');</script> 
+     <div class="ovh cath"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/suc-khoe.htm" title="S?c kh?e" style="color: #0067d8">S?c kh?e</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/suc-khoe/kien-thuc-gioi-tinh.htm" title="Ki?n th?c gi?i tính">Ki?n th?c gi?i tính</a></li> 
+        <li><a href="/suc-khoe/tu-van.htm" title="T? v?n">T? v?n</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/suc-khoe/lam-dep.htm" title="Làm ??p">Làm ??p</a></li> 
+        <li><a href="/suc-khoe/ung-thu.htm" title="Ung th?">Ung th?</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <a href="/suc-khoe/giam-15-calo-se-giam-nguy-co-mac-cac-benh-tuoi-gia-20180326115742075.htm" title="Gi?m 15% calo, l?i ?? ???ng"> <img alt="Gi?m 15% calo, l?i ?? ???ng" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/26/calo-15220400183501713111734.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/26/calo-15220400183501713111734.jpg"> <h3>Gi?m 15% calo, l?i ?? ???ng</h3> </a> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 13:13</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/suc-khoe/vu-chay-chung-cu-carina-43-nan-nhan-con-dieu-tri-tai-cac-benh-vien-20180326154446665.htm" title="V? cháy chung c? Carina: 43 n?n nhân còn ?i?u tr? t?i các b?nh vi?n" data-type="0"> <img alt="V? cháy chung c? Carina: 43 n?n nhân còn ?i?u tr? t?i các b?nh vi?n" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/chay-chung-cu-15220494500342084666008.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/chay-chung-cu-15220494500342084666008.jpg"> <h3>V? cháy chung c? Carina: 43 n?n nhân còn ?i?u tr? t?i các b?nh vi?n</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 14:45</i>
+         </div> </a> </li> 
+       <li> <a href="/suc-khoe/phat-co-so-ban-thuoc-gia-truyen-tri-tieu-duong-khong-ro-nguon-goc-45-trieu-dong-20180326114302031.htm" title="Ph?t c? s? bán thu?c “gia truy?n” tr? ti?u ???ng không rõ ngu?n g?c 45 tri?u ??ng" data-type="0"> <img alt="Ph?t c? s? bán thu?c “gia truy?n” tr? ti?u ???ng không rõ ngu?n g?c 45 tri?u ??ng" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/9/img20180309080838-15205594951801923911570.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/9/img20180309080838-15205594951801923911570.jpg"> <h3>Ph?t c? s? bán thu?c “gia truy?n” tr? ti?u ???ng không rõ ngu?n g?c 45 tri?u ??ng</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 09:20</i>
+         </div> </a> </li> 
+       <li> <a href="/suc-khoe/phot-lo-chi-thi-cam-ban-nuoc-ngot-co-ga-20180326075041034.htm" title="Ph?t l? ch? th? c?m bán n??c ng?t có ga" data-type="0"> <img alt="Ph?t l? ch? th? c?m bán n??c ng?t có ga" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/13-nuoc-ngot-1ijtr-15220251568612046394821.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/13-nuoc-ngot-1ijtr-15220251568612046394821.jpg"> <h3>Ph?t l? ch? th? c?m bán n??c ng?t có ga</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 07:49</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/suc-manh-so.htm" title="S?c m?nh s?" style="color: #0067d8">S?c m?nh s?</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/suc-manh-so/vi-tinh.htm" title="Máy tính - M?ng">Máy tính - M?ng</a></li> 
+        <li><a href="/suc-manh-so/dien-thoai.htm" title="Di ??ng - Vi?n thông">Di ??ng - Vi?n thông</a></li> 
+        <li><a href="/suc-manh-so/dien-may.htm" title="?i?n t? tiêu dùng">?i?n t? tiêu dùng</a></li> 
+        <li><a href="/suc-manh-so/nghe-nhin.htm" title="Nghe nhìn">Nghe nhìn</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/suc-manh-so/phan-mem-bao-mat.htm" title="Ph?n m?m - B?o m?t">Ph?n m?m - B?o m?t</a></li> 
+        <li><a href="/suc-manh-so/thu-thuat.htm" title="Th? thu?t - M?o v?t">Th? thu?t - M?o v?t</a></li> 
+        <li><a href="/suc-manh-so/thi-truong-cong-nghe.htm" title="Th? tr??ng công ngh?">Th? tr??ng công ngh?</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <a href="/suc-manh-so/loat-thiet-bi-moi-sap-ra-mat-tai-viet-nam-trong-thang-4-nam-nay-20180326104318394.htm" title="Lo?t thi?t b? m?i s?p ra m?t t?i Vi?t Nam trong tháng 4 n?m nay"> <img alt="Lo?t thi?t b? m?i s?p ra m?t t?i Vi?t Nam trong tháng 4 n?m nay" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/26/vivo-v9-15220347846141075743963.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/26/vivo-v9-15220347846141075743963.jpg"> <h3>Lo?t thi?t b? m?i s?p ra m?t t?i Vi?t Nam trong tháng 4 n?m nay</h3> </a> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 14:00</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/suc-manh-so/grab-chinh-thuc-thau-tom-uber-dong-nam-a-cham-dut-cuoc-chay-dua-2018032617013802.htm" title="Grab chính th?c thâu tóm Uber ?ông Nam Á, ch?m d?t cu?c ch?y ?ua" data-type="0"> <img alt="Grab chính th?c thâu tóm Uber ?ông Nam Á, ch?m d?t cu?c ch?y ?ua" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/grab-v-uber-816x427-15220582002311491538639.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/grab-v-uber-816x427-15220582002311491538639.jpg"> <h3>Grab chính th?c thâu tóm Uber ?ông Nam Á, ch?m d?t cu?c ch?y ?ua</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 17:04</i>
+         </div> </a> </li> 
+       <li> <a href="/suc-manh-so/sharp-aquos-s3-smartphone-tai-tho-bat-ngo-xuat-hien-tai-viet-nam-2018032611432875.htm" title="Sharp Aquos S3 - smartphone &quot;tai th?&quot; b?t ng? xu?t hi?n t?i Vi?t Nam" data-type="0"> <img alt="Sharp Aquos S3 - smartphone &quot;tai th?&quot; b?t ng? xu?t hi?n t?i Vi?t Nam" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/sharp-aquos-s3-5-15220383625631703437384.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/sharp-aquos-s3-5-15220383625631703437384.jpg"> <h3>Sharp Aquos S3 - smartphone "tai th?" b?t ng? xu?t hi?n t?i Vi?t Nam</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 11:45</i>
+         </div> </a> </li> 
+       <li> <a href="/suc-manh-so/mark-zuckerberg-mua-quang-cao-tren-hang-loat-bao-lon-de-xin-loi-20180326105209917.htm" title="Mark Zuckerberg mua qu?ng cáo trên hàng lo?t báo l?n ?? xin l?i" data-type="0"> <img alt="Mark Zuckerberg mua qu?ng cáo trên hàng lo?t báo l?n ?? xin l?i" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/mark00-crop-1522036170620465349904.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/mark00-crop-1522036170620465349904.jpg"> <h3>Mark Zuckerberg mua qu?ng cáo trên hàng lo?t báo l?n ?? xin l?i</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 11:00</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/o-to-xe-may.htm" title="Ô tô - Xe máy" style="color: #0067d8">Ô tô - Xe máy</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/o-to-xe-may/thi-truong-xe.htm" title="Th? tr??ng xe">Th? tr??ng xe</a></li> 
+        <li><a href="/o-to-xe-may/van-hoa-xe.htm" title="V?n hoá xe">V?n hoá xe</a></li> 
+        <li><a href="/o-to-xe-may/tu-van-xe.htm" title="T? v?n xe">T? v?n xe</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/o-to-xe-may/dua-xe.htm" title="?ua xe">?ua xe</a></li> 
+        <li><a href="/o-to-xe-may/gia-xe.htm" title="Giá xe">Giá xe</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <a href="/o-to-xe-may/mazda-hyundai-co-them-nha-may-tai-viet-nam-co-hoi-cho-mua-xe-gia-re-20180326122838326.htm" title="Mazda, Hyundai có thêm nhà máy t?i Vi?t Nam - C? h?i ch? mua xe giá r??"> <img alt="Mazda, Hyundai có thêm nhà máy t?i Vi?t Nam - C? h?i ch? mua xe giá r??" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/26/aq-15220417143191882773856.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/26/aq-15220417143191882773856.jpg"> <h3>Mazda, Hyundai có thêm nhà máy t?i Vi?t Nam - C? h?i ch? mua xe giá r??</h3> </a> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 12:37</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/o-to-xe-may/hoang-hon-voi-xe-khach-cuop-duong-vuot-bang-lan-khan-cap-20180326124306312.htm" title="Lái xe c??p ???ng, v??t b?ng làn kh?n c?p - Chuy?n bao gi? h?t?" data-type="2"> <img alt="Lái xe c??p ???ng, v??t b?ng làn kh?n c?p - Chuy?n bao gi? h?t?" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/cover-1522042835484962613182.gif.png" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/cover-1522042835484962613182.gif.png"> <h3>Lái xe c??p ???ng, v??t b?ng làn kh?n c?p - Chuy?n bao gi? h?t?&nbsp;<i class="icon_video"></i></h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 12:45</i>
+         </div> </a> </li> 
+       <li> <a href="/o-to-xe-may/dong-suv-dang-chi-phoi-thi-truong-o-to-chau-au-20180326122052206.htm" title="Dòng SUV ?ang chi ph?i th? tr??ng ô tô châu Âu" data-type="0"> <img alt="Dòng SUV ?ang chi ph?i th? tr??ng ô tô châu Âu" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/citroen-c3-aircross-front01-1522040903266366956201.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/citroen-c3-aircross-front01-1522040903266366956201.jpg"> <h3>Dòng SUV ?ang chi ph?i th? tr??ng ô tô châu Âu</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 12:08</i>
+         </div> </a> </li> 
+       <li> <a href="/o-to-xe-may/he-lo-hinh-anh-dau-tien-ve-mazda3-the-he-moi-20180326070745084.htm" title="Hé l? hình ?nh ??u tiên v? Mazda3 th? h? m?i" data-type="0"> <img alt="Hé l? hình ?nh ??u tiên v? Mazda3 th? h? m?i" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/2019-mazda3-dash-3-850x425-15220218421312000038216.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/2019-mazda3-dash-3-850x425-15220218421312000038216.jpg"> <h3>Hé l? hình ?nh ??u tiên v? Mazda3 th? h? m?i</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 07:33</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/khoa-hoc-cong-nghe.htm" title="Khoa h?c - Công ngh?" style="color: #0067d8">Khoa h?c - Công ngh?</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/khoa-hoc-cong-nghe/the-gioi-tu-nhien.htm" title="Th? gi?i t? nhiên">Th? gi?i t? nhiên</a></li> 
+        <li><a href="/khoa-hoc-cong-nghe/khoa-hoc-do-day.htm" title="Khoa h?c ?ó ?ây">Khoa h?c ?ó ?ây</a></li> 
+        <li><a href="/khoa-hoc-cong-nghe/tai-sao-lai-the.htm" title="T?i sao l?i th??">T?i sao l?i th??</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/khoa-hoc-cong-nghe/sang-tao-viet.htm" title="Sáng t?o Vi?t">Sáng t?o Vi?t</a></li> 
+        <li><a href="/khoa-hoc-cong-nghe/khoa-hoc-doi-song.htm" title="Khoa h?c &amp; ??i s?ng">Khoa h?c &amp; ??i s?ng</a></li> 
+        <li><a href="/khoa-hoc-cong-nghe/nhan-tai-dat-viet.htm" title="Nhân tài ??t Vi?t">Nhân tài ??t Vi?t</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <a href="/khoa-hoc-cong-nghe/diem-danh-nhung-loai-ca-nguy-hiem-nhat-tren-the-gioi-phan-2-20180325062902195.htm" title="?i?m danh nh?ng loài cá nguy hi?m nh?t trên th? gi?i (Ph?n 2)"> <img alt="?i?m danh nh?ng loài cá nguy hi?m nh?t trên th? gi?i (Ph?n 2)" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/24/ca-1521873805325956674039.gif.png" data-src="http://dantricdn.com/zoom/480_300/2018/3/24/ca-1521873805325956674039.gif.png"> <h3>?i?m danh nh?ng loài cá nguy hi?m nh?t trên th? gi?i (Ph?n 2)</h3> </a> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 11:00</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/khoa-hoc-cong-nghe/tram-cam-co-the-lam-tang-nguy-co-nhip-tim-bat-thuong-2018032610471647.htm" title="Tr?m c?m có th? làm t?ng nguy c? nh?p tim b?t th??ng" data-type="0"> <img alt="Tr?m c?m có th? làm t?ng nguy c? nh?p tim b?t th??ng" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/nhip-tim-1522035830387648968.png" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/nhip-tim-1522035830387648968.png"> <h3>Tr?m c?m có th? làm t?ng nguy c? nh?p tim b?t th??ng</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 10:44</i>
+         </div> </a> </li> 
+       <li> <a href="/khoa-hoc-cong-nghe/cac-nguyen-nhan-thuong-gap-gay-ngo-doc-thuc-pham-2018032610350331.htm" title="Các nguyên nhân th??ng g?p gây ng? ??c th?c ph?m" data-type="0"> <img alt="Các nguyên nhân th??ng g?p gây ng? ??c th?c ph?m" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/thit-ga-15220351800621458965364.png" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/thit-ga-15220351800621458965364.png"> <h3>Các nguyên nhân th??ng g?p gây ng? ??c th?c ph?m</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 10:34</i>
+         </div> </a> </li> 
+       <li> <a href="/khoa-hoc-cong-nghe/giai-phap-cua-han-quoc-cho-nan-van-hoa-lam-qua-gio-20180326101639267.htm" title="Gi?i pháp c?a Hàn Qu?c cho n?n “v?n hóa làm quá gi?”" data-type="0"> <img alt="Gi?i pháp c?a Hàn Qu?c cho n?n “v?n hóa làm quá gi?”" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/lam-them-gio-15220338599731502316521.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/lam-them-gio-15220338599731502316521.jpg"> <h3>Gi?i pháp c?a Hàn Qu?c cho n?n “v?n hóa làm quá gi?”</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 10:15</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/tinh-yeu-gioi-tinh.htm" title="Tình yêu - Gi?i tính" style="color: #0067d8">Tình yêu - Gi?i tính</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/tinh-yeu-gioi-tinh/tinh-yeu.htm" title="Tình yêu">Tình yêu</a></li> 
+        <li><a href="/tinh-yeu-gioi-tinh/gia-dinh.htm" title="Gia ?ình">Gia ?ình</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/tinh-yeu-gioi-tinh/goc-tam-hon.htm" title="Góc tâm h?n">Góc tâm h?n</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <a href="/tinh-yeu-gioi-tinh/chi-dau-bi-to-cao-ngoai-tinh-van-mot-muc-keu-oan-bi-nguoi-ta-choi-deu-2018032614563753.htm" title="Ch? dâu b? t? cáo ngo?i tình v?n m?t m?c kêu oan &quot;b? ng??i ta ch?i ??u”"> <img alt="Ch? dâu b? t? cáo ngo?i tình v?n m?t m?c kêu oan &quot;b? ng??i ta ch?i ??u”" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/26/anh-dai-dien-1522031230-width640height480-auto-crop-1522050744998920853516.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/26/anh-dai-dien-1522031230-width640height480-auto-crop-1522050744998920853516.jpg"> <h3>Ch? dâu b? t? cáo ngo?i tình v?n m?t m?c kêu oan "b? ng??i ta ch?i ??u”</h3> </a> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 14:56</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/tinh-yeu-gioi-tinh/vo-nhu-hoa-dien-khi-chong-cap-voi-nguoi-dan-ba-hon-ca-chuc-tuoi-2018032610072631.htm" title="V? nh? hóa ?iên khi ch?ng c?p v?i ng??i ?àn bà h?n c? ch?c tu?i" data-type="0"> <img alt="V? nh? hóa ?iên khi ch?ng c?p v?i ng??i ?àn bà h?n c? ch?c tu?i" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/gai-gia1-152177570174821602565-1522032403077831292147.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/gai-gia1-152177570174821602565-1522032403077831292147.jpg"> <h3>V? nh? hóa ?iên khi ch?ng c?p v?i ng??i ?àn bà h?n c? ch?c tu?i</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 10:07</i>
+         </div> </a> </li> 
+       <li> <a href="/tinh-yeu-gioi-tinh/cu-dan-mang-do-khoc-do-cuoi-boi-co-gai-nham-me-chong-tuong-lai-la-nguoi-giup-viec-20180326090016845.htm" title="C? dân m?ng d? khóc d? c??i b?i cô gái &quot;nh?m m? ch?ng t??ng lai là ng??i giúp vi?c&quot;" data-type="0"> <img alt="C? dân m?ng d? khóc d? c??i b?i cô gái &quot;nh?m m? ch?ng t??ng lai là ng??i giúp vi?c&quot;" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/152196289068920-thumbnail-auto-crop-1522029412776898607313.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/152196289068920-thumbnail-auto-crop-1522029412776898607313.jpg"> <h3>C? dân m?ng d? khóc d? c??i b?i cô gái "nh?m m? ch?ng t??ng lai là ng??i giúp vi?c"</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 09:00</i>
+         </div> </a> </li> 
+       <li> <a href="/tinh-yeu-gioi-tinh/phan-no-voi-con-trai-danh-me-gia-90-tuoi-vi-khong-giu-nha-cua-gon-gang-20180326073816588.htm" title="Ph?n n? v?i con trai ?ánh m? già 90 tu?i vì không gi? nhà c?a g?n gàng" data-type="0"> <img alt="Ph?n n? v?i con trai ?ánh m? già 90 tu?i vì không gi? nhà c?a g?n gàng" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/photo-1-crop-15220244464611001589585.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/photo-1-crop-15220244464611001589585.jpg"> <h3>Ph?n n? v?i con trai ?ánh m? già 90 tu?i vì không gi? nhà c?a g?n gàng</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 07:38</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath cath2"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/ban-doc.htm" title="B?n ??c" style="color: #0067d8">B?n ??c</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/ban-doc/dieu-tra.htm" title="?i?u tra">?i?u tra</a></li> 
+        <li><a href="/ban-doc/tu-van-phap-luat.htm" title="T? v?n pháp lu?t">T? v?n pháp lu?t</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/ban-doc/hoi-am.htm" title="H?i âm">H?i âm</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <h3><a href="/ban-doc/quang-tri-chinh-quyen-phan-phat-bo-giong-cho-nguoi-than-can-bo-degiet-thit-20180326065029167.htm" title="Nh?n bò gi?ng, chính quy?n phân phát cho ng??i thân cán b? ??...gi?t th?t!">Nh?n bò gi?ng, chính quy?n phân phát cho ng??i thân cán b? ??...gi?t th?t!</a></h3> 
+       <div class="ovh"> 
+        <a href="/ban-doc/quang-tri-chinh-quyen-phan-phat-bo-giong-cho-nguoi-than-can-bo-degiet-thit-20180326065029167.htm"><img alt="Nh?n bò gi?ng, chính quy?n phân phát cho ng??i thân cán b? ??...gi?t th?t!" class="lazy" src="http://dantricdn.com/zoom/16_10/2018/3/25/bo-ho-ngheo-15219612340901651321292.jpg" data-src="http://dantricdn.com/zoom/160_100/2018/3/25/bo-ho-ngheo-15219612340901651321292.jpg"></a> 
+        <p class="collapse_txt">(Dân trí) - 10 con bò ??c gi?ng thu?c chích sách hô? tr?? ch?n nuôi nông hô? ???c c?p phát ... </p> 
+       </div> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 06:54</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/ban-doc/vu-dieu-dung-vi-quyet-dinh-dinh-chi-xet-xu-ban-an-so-tham-chua-thoa-dang-2018032607100432.htm" title="V? ?iêu ??ng vì quy?t ??nh ?ình ch? xét x?: B?n án s? th?m ch?a th?a ?áng?" data-type="0"> <h3>V? ?iêu ??ng vì quy?t ??nh ?ình ch? xét x?: B?n án s? th?m ch?a th?a ?áng?</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 07:18</i>
+         </div> </a> </li> 
+       <li> <a href="/ban-doc/soc-trang-gia-dinh-6-liet-si-keu-cuu-khi-bi-toa-tuyen-mat-dat-20180326070639287.htm" title="Sóc Tr?ng: Gia ?ình 6 li?t s? kêu c?u khi b? tòa tuyên m?t ??t!" data-type="0"> <h3>Sóc Tr?ng: Gia ?ình 6 li?t s? kêu c?u khi b? tòa tuyên m?t ??t!</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 07:09</i>
+         </div> </a> </li> 
+       <li> <a href="/ban-doc/xu-ly-dut-diem-vu-nguoi-dan-ong-35-nam-khon-kho-mang-gioi-tinh-nu-20180326065442449.htm" title="X? lý d?t ?i?m v? ng??i ?àn ông 35 n?m kh?n kh? mang gi?i tính &quot;n?&quot;!" data-type="0"> <h3>X? lý d?t ?i?m v? ng??i ?àn ông 35 n?m kh?n kh? mang gi?i tính "n?"!</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 07:05</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath cath2"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/tuyen-sinh.htm" title="Tuy?n sinh" style="color: #0067d8">Tuy?n sinh</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/tuyen-sinh/chi-tieu.htm" title="Ch? tiêu">Ch? tiêu</a></li> 
+        <li><a href="/tuyen-sinh/de-thi-dap-an.htm" title="?? thi - ?áp án">?? thi - ?áp án</a></li> 
+        <li><a href="/tuyen-sinh/khoanh-khac-mua-thi.htm" title="Kho?nh kh?c mùa thi">Kho?nh kh?c mùa thi</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/tuyen-sinh/tu-van-toan-canh.htm" title="T? v?n toàn c?nh">T? v?n toàn c?nh</a></li> 
+        <li><a href="/tuyen-sinh/gap-go-cac-truong.htm" title="G?p g? các tr??ng">G?p g? các tr??ng</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <h3><a href="/giao-duc-khuyen-hoc/6-luu-y-quan-trong-khi-dang-ky-du-thi-thpt-quoc-gia-2018-20180326151031902.htm" title="6 l?u ý quan tr?ng khi ??ng ký d? thi THPT qu?c gia 2018">6 l?u ý quan tr?ng khi ??ng ký d? thi THPT qu?c gia 2018</a></h3> 
+       <div class="ovh"> 
+        <a href="/giao-duc-khuyen-hoc/6-luu-y-quan-trong-khi-dang-ky-du-thi-thpt-quoc-gia-2018-20180326151031902.htm"><img alt="6 l?u ý quan tr?ng khi ??ng ký d? thi THPT qu?c gia 2018" class="lazy" src="http://dantricdn.com/zoom/16_10/2018/3/25/29681492959269607587713809441302o-1521960916450342596463.jpg" data-src="http://dantricdn.com/zoom/160_100/2018/3/25/29681492959269607587713809441302o-1521960916450342596463.jpg"></a> 
+        <p class="collapse_txt">(Dân trí) - Không ???c b? bài thi t? h?p ?ã ??ng ký; 6 tr??ng h?p ???c mi?n thi môn ... </p> 
+       </div> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 15:09</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/giao-duc-khuyen-hoc/truong-dh-giao-thong-van-tai-to-chuc-thi-thu-thpt-quoc-gia-2018-20180326161810529.htm" title="Tr??ng ?H Giao thông v?n t?i t? ch?c thi th? THPT qu?c gia 2018?" data-type="0"> <h3>Tr??ng ?H Giao thông v?n t?i t? ch?c thi th? THPT qu?c gia 2018?</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 16:15</i>
+         </div> </a> </li> 
+       <li> <a href="/tuyen-sinh/hon-3500-hoc-sinh-thi-thu-kiem-tra-nang-luc-vao-dai-hoc-2018032611133963.htm" title="H?n 3.500 h?c sinh thi th? ki?m tra n?ng l?c vào ??i h?c" data-type="0"> <h3>H?n 3.500 h?c sinh thi th? ki?m tra n?ng l?c vào ??i h?c</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 11:13</i>
+         </div> </a> </li> 
+       <li> <a href="/tuyen-sinh/dau-ra-dao-tao-dai-hoc-thi-truong-se-quyet-dinh-viec-tuyen-sinh-20180326073950162.htm" title="??u ra ?ào t?o ??i h?c: Th? tr??ng s? quy?t ??nh vi?c tuy?n sinh" data-type="0"> <h3>??u ra ?ào t?o ??i h?c: Th? tr??ng s? quy?t ??nh vi?c tuy?n sinh</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 07:39</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath cath2"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/viec-lam.htm" title="Vi?c làm" style="color: #0067d8">Vi?c làm</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/viec-lam/chinh-sach.htm" title="Chính sách">Chính sách</a></li> 
+        <li><a href="/viec-lam/thi-truong.htm" title="Th? tr??ng">Th? tr??ng</a></li> 
+        <li><a href="/viec-lam/chung-toi-noi.htm" title="Chúng tôi nói">Chúng tôi nói</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/viec-lam/dao-tao.htm" title="?ào t?o">?ào t?o</a></li> 
+        <li><a href="/viec-lam/xkld.htm" title="XKL?">XKL?</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <h3><a href="/viec-lam/co-duoc-nhan-bao-hiem-that-nghiep-mot-lan-20180326100541436.htm" title="Có ???c nh?n b?o hi?m th?t nghi?p “m?t l?n”?">Có ???c nh?n b?o hi?m th?t nghi?p “m?t l?n”?</a></h3> 
+       <div class="ovh"> 
+        <a href="/viec-lam/co-duoc-nhan-bao-hiem-that-nghiep-mot-lan-20180326100541436.htm"><img alt="Có ???c nh?n b?o hi?m th?t nghi?p “m?t l?n”?" class="lazy" src="http://dantricdn.com/zoom/16_10/2018/3/26/bao-hiem-that-nghiep-15220334389211667525529.jpeg" data-src="http://dantricdn.com/zoom/160_100/2018/3/26/bao-hiem-that-nghiep-15220334389211667525529.jpeg"></a> 
+        <p class="collapse_txt">(Dân trí) - B?n L?u Trinh (Hà N?i) h?i: Anh trai tôi ?ang h??ng b?o hi?m th?t nghi?p ???c 2 ... </p> 
+       </div> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 10:05</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/viec-lam/huong-dan-thu-tuc-di-xuat-khau-lao-dong-han-quoc-20180326102433872.htm" title="H??ng d?n th? t?c ?i xu?t kh?u lao ??ng Hàn Qu?c" data-type="0"> <h3>H??ng d?n th? t?c ?i xu?t kh?u lao ??ng Hàn Qu?c</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 10:24</i>
+         </div> </a> </li> 
+       <li> <a href="/viec-lam/lai-xe-uber-grab-khong-phai-quyet-toan-thue-thu-nhap-ca-nhan-2018032609523882.htm" title="Lái xe Uber, Grab không ph?i quy?t toán thu? thu nh?p cá nhân" data-type="0"> <h3>Lái xe Uber, Grab không ph?i quy?t toán thu? thu nh?p cá nhân</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 09:52</i>
+         </div> </a> </li> 
+       <li> <a href="/viec-lam/nhan-vien-khach-san-tho-ky-thuat-se-duoc-hoc-ky-nang-nghe-cua-australia-20180326084913983.htm" title="Nhân viên khách s?n, th? k? thu?t... s? ???c h?c k? n?ng ngh? c?a Australia" data-type="0"> <h3>Nhân viên khách s?n, th? k? thu?t... s? ???c h?c k? n?ng ngh? c?a Australia</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 08:48</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath cath2"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/du-hoc.htm" title="Du h?c" style="color: #0067d8">Du h?c</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/du-hoc/co-hoi-du-hoc.htm" title="C? h?i du h?c">C? h?i du h?c</a></li> 
+        <li><a href="/du-hoc/the-gioi-du-hoc.htm" title="Th? gi?i du h?c">Th? gi?i du h?c</a></li> 
+        <li><a href="/du-hoc/tai-tri-viet.htm" title="Tài trí Vi?t">Tài trí Vi?t</a></li> 
+        <li><a href="/du-hoc/cac-ngoi-truong-danh-tieng.htm" title="Các ngôi tr??ng danh ti?ng">Các ngôi tr??ng danh ti?ng</a></li> 
+        <li><a href="/du-hoc/cam-nang-hoi-dap.htm" title="C?m nang - H?i ?áp">C?m nang - H?i ?áp</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/du-hoc/talk-2-language-link.htm" title="Talk 2 Language Link">Talk 2 Language Link</a></li> 
+        <li><a href="/du-hoc/talk-2-uni.htm" title="Talk 2 uni">Talk 2 uni</a></li> 
+        <li><a href="/du-hoc/talk-to-paul.htm" title="Talk to Paul">Talk to Paul</a></li> 
+        <li><a href="/du-hoc/biet.htm" title="Bi?t +">Bi?t +</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <h3><a href="/du-hoc/hoai-nghi-ve-quyet-dinh-du-hoc-cam-giac-bat-ki-dhs-nao-cung-tung-trai-qua-2018032609203596.htm" title="Hoài nghi v? quy?t ??nh du h?c - c?m giác b?t kì DHS nào c?ng t?ng tr?i qua">Hoài nghi v? quy?t ??nh du h?c - c?m giác b?t kì DHS nào c?ng t?ng tr?i qua</a></h3> 
+       <div class="ovh"> 
+        <a href="/du-hoc/hoai-nghi-ve-quyet-dinh-du-hoc-cam-giac-bat-ki-dhs-nao-cung-tung-trai-qua-2018032609203596.htm"><img alt="Hoài nghi v? quy?t ??nh du h?c - c?m giác b?t kì DHS nào c?ng t?ng tr?i qua" class="lazy" src="http://dantricdn.com/zoom/16_10/2018/3/24/duhocsinh-1521908616928718291413.jpg" data-src="http://dantricdn.com/zoom/160_100/2018/3/24/duhocsinh-1521908616928718291413.jpg"></a> 
+        <p class="collapse_txt">(Dân trí) - Th? ngh? mà xem, trong khi b?n bè n?i quê nhà ?ã làm nên ông này, bà ... </p> 
+       </div> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 09:24</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/du-hoc/bi-quyet-tro-thanh-chu-nhan-cac-chuong-trinh-hoc-bong-gia-tri-20180325130306325.htm" title="Bí quy?t tr? thành ch? nhân các ch??ng trình h?c b?ng giá tr?" data-type="0"> <h3>Bí quy?t tr? thành ch? nhân các ch??ng trình h?c b?ng giá tr?</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>25/03/2018 13:01</i>
+         </div> </a> </li> 
+       <li> <a href="/du-hoc/sinh-vien-quoc-te-giam-manh-nhieu-truong-dai-hoc-my-that-thu-20180324054547093.htm" title="Sinh viên qu?c t? gi?m m?nh, nhi?u tr??ng ??i h?c M? th?t thu" data-type="0"> <h3>Sinh viên qu?c t? gi?m m?nh, nhi?u tr??ng ??i h?c M? th?t thu</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>25/03/2018 00:11</i>
+         </div> </a> </li> 
+       <li> <a href="/du-hoc/hoi-thao-du-hoc-canada-cap-nhat-chinh-sach-visa-sds-va-phuong-an-hau-ces-2018-20180324092008357.htm" title="H?i th?o Du h?c Canada - C?p nh?t chính sách Visa SDS và ph??ng án h?u CES 2018" data-type="0"> <h3>H?i th?o Du h?c Canada - C?p nh?t chính sách Visa SDS và ph??ng án h?u CES 2018</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>24/03/2018 09:18</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath cath2"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/chuyen-la.htm" title="Chuy?n l?" style="color: #0067d8">Chuy?n l?</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+      </div> 
+      <div class="ovh top1"> 
+       <h3><a href="/chuyen-la/chong-treo-vo-len-cay-roi-danh-vi-toi-ngoai-tinh-20180326150537316.htm" title="Ch?ng treo v? lên cây r?i ?ánh vì t?i ngo?i tình">Ch?ng treo v? lên cây r?i ?ánh vì t?i ngo?i tình</a></h3> 
+       <div class="ovh"> 
+        <a href="/chuyen-la/chong-treo-vo-len-cay-roi-danh-vi-toi-ngoai-tinh-20180326150537316.htm"><img alt="Ch?ng treo v? lên cây r?i ?ánh vì t?i ngo?i tình" class="lazy" src="http://dantricdn.com/zoom/16_10/2018/3/26/chong-treo-vo-len-cay-roi-danh-vi-toi-ngoai-tinh24135864-1522051138814363530510.jpg" data-src="http://dantricdn.com/zoom/160_100/2018/3/26/chong-treo-vo-len-cay-roi-danh-vi-toi-ngoai-tinh24135864-1522051138814363530510.jpg"></a> 
+        <p class="collapse_txt">T? The Sun ??a tin, m?t ng??i ph? n? b? ch?ng c?a mình treo lên cây và ?ánh ??p h?n ... </p> 
+       </div> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 15:05</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/chuyen-la/tu-che-ten-lua-phong-minh-len-khong-trung-de-chung-minh-trai-dat-phang-20180326104624829.htm" title="T? ch? tên l?a phóng mình lên không trung ?? ch?ng minh &quot;trái ??t ph?ng&quot;" data-type="0"> <h3>T? ch? tên l?a phóng mình lên không trung ?? ch?ng minh "trái ??t ph?ng"</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 10:46</i>
+         </div> </a> </li> 
+       <li> <a href="/chuyen-la/tau-luon-sieu-cham-trat-banh-khoi-duong-ray-ma-khong-ai-hay-biet-20180326083807325.htm" title="Tàu l??n siêu ch?m tr?t bánh kh?i ???ng ray mà không ai hay bi?t" data-type="0"> <h3>Tàu l??n siêu ch?m tr?t bánh kh?i ???ng ray mà không ai hay bi?t</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 08:37</i>
+         </div> </a> </li> 
+       <li> <a href="/chuyen-la/dot-het-11-ty-dong-cho-phau-thuat-co-gai-chup-anh-khoa-than-mung-ve-ngoai-giong-kim-kardashian-20180326072825836.htm" title="Chi h?t 11 t? ??ng cho ph?u thu?t, cô gái kh?a thân khoe mình gi?ng Kim Kardashian" data-type="3"> <h3>Chi h?t 11 t? ??ng cho ph?u thu?t, cô gái kh?a thân khoe mình gi?ng Kim Kardashian&nbsp;<i class="icon_img"></i></h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 07:28</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/doi-song.htm" title="??i s?ng" style="color: #0067d8">??i s?ng</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/doi-song/cong-dong.htm" title="C?ng ??ng">C?ng ??ng</a></li> 
+        <li><a href="/doi-song/nha-dep.htm" title="Nhà ??p">Nhà ??p</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/doi-song/bep-ngon.htm" title="B?p ngon">B?p ngon</a></li> 
+        <li><a href="/doi-song/thuong-luu.htm" title="Th??ng l?u">Th??ng l?u</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <a href="/doi-song/nhung-bieu-tuong-cam-xuc-keo-moi-nguoi-xich-lai-gan-nhau-20180326160228223.htm" title="Nh?ng bi?u t??ng c?m xúc kéo m?i ng??i xích l?i g?n nhau"> <img alt="Nh?ng bi?u t??ng c?m xúc kéo m?i ng??i xích l?i g?n nhau" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/26/myemoji1803211425254-15220546822111857441288.gif.png" data-src="http://dantricdn.com/zoom/480_300/2018/3/26/myemoji1803211425254-15220546822111857441288.gif.png"> <h3>Nh?ng bi?u t??ng c?m xúc kéo m?i ng??i xích l?i g?n nhau</h3> </a> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>26/03/2018 16:02</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/doi-song/lac-loi-trong-khong-gian-song-dam-chat-chau-au-20180326162225266.htm" title="L?c l?i trong không gian s?ng ??m ch?t Châu Âu" data-type="0"> <img alt="L?c l?i trong không gian s?ng ??m ch?t Châu Âu" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/photo-5-15220542914881813375201.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/photo-5-15220542914881813375201.jpg"> <h3>L?c l?i trong không gian s?ng ??m ch?t Châu Âu</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 16:22</i>
+         </div> </a> </li> 
+       <li> <a href="/doi-song/noi-am-anh-cua-nguoi-dan-ong-40-nam-vot-xac-tren-song-sai-gon-20180326113744291.htm" title="N?i ám ?nh c?a ng??i ?àn ông 40 n?m v?t xác trên sông Sài Gòn" data-type="0"> <img alt="N?i ám ?nh c?a ng??i ?àn ông 40 n?m v?t xác trên sông Sài Gòn" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/vo-chong-chu-nguyen-van-chuc-1-1522035590535181691439.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/vo-chong-chu-nguyen-van-chuc-1-1522035590535181691439.jpg"> <h3>N?i ám ?nh c?a ng??i ?àn ông 40 n?m v?t xác trên sông Sài Gòn</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 11:38</i>
+         </div> </a> </li> 
+       <li> <a href="/doi-song/chuyen-tinh-ky-la-cua-cap-doi-chong-kem-vo-13-tuoi-day-song-du-luan-2018032611092485.htm" title="Chuy?n tình k? l? c?a c?p ?ôi ch?ng kém v? 13 tu?i “d?y sóng” d? lu?n" data-type="0"> <img alt="Chuy?n tình k? l? c?a c?p ?ôi ch?ng kém v? 13 tu?i “d?y sóng” d? lu?n" class="lazy" src="http://dantricdn.com/zoom/10_10/2018/3/26/397490-15220364757641900875178.jpg" data-src="http://dantricdn.com/zoom/100_100/2018/3/26/397490-15220364757641900875178.jpg"> <h3>Chuy?n tình k? l? c?a c?p ?ôi ch?ng kém v? 13 tu?i “d?y sóng” d? lu?n</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>26/03/2018 11:19</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath_blog"> 
+      <h2 class="cf cath_blog-head" style="border-bottom:solid 3px #0067d8"> <a href="/blog.htm" title="Blog" style="color: #0067d8">Blog</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh top1"> 
+       <a href="/blog/vo-so-tham-hoa-chay-no-van-ngay-dem-truc-cho-20180326012415493.htm" title="Vô s? th?m h?a cháy, n? v?n ngày ?êm tr?c, ch?"> <img alt="Vô s? th?m h?a cháy, n? v?n ngày ?êm tr?c, ch?" class="lazy" src="http://dantricdn.com/zoom/48_30/2018/3/26/mpccc-15220015514001338795520.jpg" data-src="http://dantricdn.com/zoom/480_300/2018/3/26/mpccc-15220015514001338795520.jpg"> <h3> <span class="fl comment"> <b data-id="20180326012415493" class="comment-count">0</b> <i>BÌNH LU?N</i> </span> Vô s? th?m h?a cháy, n? v?n ngày ?êm tr?c, ch? </h3> </a> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;Th? 2, Ngày 26-03, N?m 2018
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/blog/xin-dung-de-nguoi-dan-luon-nom-nop-song-trong-so-hai-20180325015619848.htm" title="Xin ??ng ?? ng??i dân luôn n?m n?p “s?ng trong s? hãi”"> <h3> <span class="fl comment"> <b data-id="20180325015619848" class="comment-count">0</b> <i>BÌNH LU?N</i> </span> Xin ??ng ?? ng??i dân luôn n?m n?p “s?ng trong s? hãi” </h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;Ch? Nh?t, Ngày 25-03, N?m 2018
+         </div> </a> </li> 
+       <li> <a href="/blog/tiec-thay-o-doi-co-nhung-dieu-vo-loi-den-nhu-the-van-ton-tai-20180324064923082.htm" title="Ti?c thay ? ??i, có nh?ng ?i?u vô l?i ??n nh? th? v?n t?n t?i!"> <h3> <span class="fl comment"> <b data-id="20180324064923082" class="comment-count">0</b> <i>BÌNH LU?N</i> </span> Ti?c thay ? ??i, có nh?ng ?i?u vô l?i ??n nh? th? v?n t?n t?i! </h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;Th? 7, Ngày 24-03, N?m 2018
+         </div> </a> </li> 
+       <li> <a href="/blog/xa-hoi-den-phai-la-ho-then-cua-nguoi-lanh-dao-20180323032212032.htm" title="“Xã h?i ?en” ph?i là h? th?n c?a ng??i lãnh ??o"> <h3> <span class="fl comment"> <b data-id="20180323032212032" class="comment-count">0</b> <i>BÌNH LU?N</i> </span> “Xã h?i ?en” ph?i là h? th?n c?a ng??i lãnh ??o </h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;Th? 6, Ngày 23-03, N?m 2018
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+     <div class="ovh cath cath2"> 
+      <h2 class="cf cath-head" style="border-bottom:solid 3px #0067d8"> <a href="/dien-dan.htm" title="Di?n ?àn" style="color: #0067d8">Di?n ?àn</a> <a href="javascript:void(0)" onclick="toggle_catsub(this,'.cath-sub')" class="expand_ico">&nbsp;</a> </h2> 
+      <div class="ovh cath-sub"> 
+       <ul class="fl"> 
+        <li><a href="/dien-dan/giao-duc.htm" title="Giáo d?c">Giáo d?c</a></li> 
+        <li><a href="/dien-dan/xa-hoi.htm" title="Xã h?i">Xã h?i</a></li> 
+       </ul> 
+       <ul class="fr"> 
+        <li><a href="/dien-dan/the-gioi.htm" title="Th? gi?i">Th? gi?i</a></li> 
+       </ul> 
+      </div> 
+      <div class="ovh top1"> 
+       <h3><a href="/dien-dan/qua-bieu-co-phai-la-dong-co-cua-cac-bi-cao-20180322002818795.htm" title="Quà bi?u có ph?i là ??ng c? c?a các b? cáo?">Quà bi?u có ph?i là ??ng c? c?a các b? cáo?</a></h3> 
+       <div class="ovh"> 
+        <a href="/dien-dan/qua-bieu-co-phai-la-dong-co-cua-cac-bi-cao-20180322002818795.htm"><img alt="Quà bi?u có ph?i là ??ng c? c?a các b? cáo?" class="lazy" src="http://dantricdn.com/zoom/16_10/2018/3/22/dinh-la-thang-1521653122698379130020.jpg" data-src="http://dantricdn.com/zoom/160_100/2018/3/22/dinh-la-thang-1521653122698379130020.jpg"></a> 
+        <p class="collapse_txt">?ã là c? ý làm trái, các ??i t??ng ph?i có m?c ?ích nào ?ó. V?y, ngoài b? cáo Ninh ... </p> 
+       </div> 
+       <div class="ovh time">
+        <span class="clock_ico">&nbsp;</span>&nbsp;
+        <i>22/03/2018 07:00</i>
+       </div> 
+      </div> 
+      <ul class="ovh top2"> 
+       <li> <a href="/dien-dan/giao-vien-bo-hang-tram-trieu-chay-viec-giao-duc-se-ve-dau-20180319203939314.htm" title="Giáo viên b? hàng tr?m tri?u “ch?y” vi?c: Giáo d?c s? v? ?âu?" data-type="0"> <h3>Giáo viên b? hàng tr?m tri?u “ch?y” vi?c: Giáo d?c s? v? ?âu?</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>25/03/2018 06:00</i>
+         </div> </a> </li> 
+       <li> <a href="/dien-dan/xot-xa-chay-de-duoc-lam-thay-lam-co-20180319204609504.htm" title="Xót xa “ch?y” ?? ???c làm th?y, làm cô" data-type="0"> <h3>Xót xa “ch?y” ?? ???c làm th?y, làm cô</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>24/03/2018 07:00</i>
+         </div> </a> </li> 
+       <li> <a href="/dien-dan/canh-bao-tinh-trang-bat-giu-hanh-hung-nha-bao-xay-ra-gan-day-20180322223603046.htm" title="Ca?nh ba?o ti?nh tra?ng b??t gi??, ha?nh hung nha? ba?o xâ?y ra gâ?n ?ây" data-type="0"> <h3>Ca?nh ba?o ti?nh tra?ng b??t gi??, ha?nh hung nha? ba?o xâ?y ra gâ?n ?ây</h3> 
+         <div class="ovh time">
+          <span class="clock_ico">&nbsp;</span>&nbsp;
+          <i>23/03/2018 13:00</i>
+         </div> </a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <script type="text/javascript">
+        (runinit = window.runinit || []).push(function () {
+            regPushBackEvent('', 'a.mrk-click', '');
+            checkBackPagePosition('');
+            getListCommentCount('.cath_blog');
+        });
+    </script> 
+    <script type="text/javascript">
+                    (runinit = window.runinit || []).push(function () {
+                        checkLazyImages(0);
+                    });
+                </script> 
+   </div> 
+  </div> 
+  <div class="ovh footer_w"> 
+   <div class="foo_owner"> 
+    <div class="ovh slogan"> 
+     <span class="flogo">&nbsp;</span>&nbsp;
+     <span class="fl">DI?N ?ÀN DÂN TRÍ VI?T NAM</span> 
+    </div> 
+    <div class="ovh address"> 
+     <p style="font:normal 10px/1.3 arial;text-transform:uppercase"><b>C? Quan c?a TW H?i Khuy?n H?c Vi?t Nam</b></p> 
+     <p>Ch?u trách nhi?m n?i dung: T?ng biên t?p Ph?m Huy Hoàn</p> 
+     <p>Gi?y phép ho?t ??ng báo ?i?n t? Dân trí trên Internet sô 378/GP -</p> 
+     <p>BTTTT Hà N?i, ngày 16-09-2013.</p> 
+     <p>Tòa so?n: S? 2 (nhà 48) Gi?ng Võ, Qu?n ??ng ?a, Hà N?i</p> 
+     <p>?i?n tho?i: 024-3736-6491. Fax: 024-3736-6490</p> 
+     <p>Email: <a href="mailto:info@dantri.com.vn" style="display: inline-block;color: #91979f;">info@dantri.com.vn</a>. Website: <a href="http://www.dantri.com.vn" style="display: inline-block;color: #91979f;">http://www.dantri.com.vn</a></p> 
+     <p>H? tr? qu?ng cáo : <a href="tel:+84942861133" rel="nofollow" style="color: #91979f;display: initial">0942.86.11.33</a></p> 
+     <div class="ovh hotline"> 
+      <span class="phone_ico">&nbsp;</span>&nbsp;&nbsp;???NG DÂY NÓNG: 
+      <span>0973 567 567 - 0974 567 567</span> 
+     </div> 
+     <p> <a href="http://www.vccorp.vn/" class="fl" rel="nofollow" target="_blank"><img width="70" alt="V?n hành b?i VCCorp" src="http://dantricdn.com/mob_images/vccorp-m.png"></a> <a href="javascript:void(0)" onclick="redirectToWeb()" rel="nofollow" class="desktop_ico">&nbsp;</a> </p> 
+    </div> 
+   </div> 
+  </div> 
+  <script type="text/javascript">
+    function redirectToWeb() {
+        var path = window.location.pathname;
+        window.location.href = "http://dantri.com.vn/handlers/redirect.ashx?mobile=true&url=" + path;
+    }
+</script> 
+ </div> 
+ <!-- Google Tag Manager (noscript) --> 
+ <noscript> 
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NQQ7DVS" height="0" width="0" style="display: none; visibility: hidden"></iframe> 
+ </noscript> 
+ <!-- End Google Tag Manager (noscript) -->   
+ <!-- cache page 17:26:28 26/03/2018-->
+</body>
